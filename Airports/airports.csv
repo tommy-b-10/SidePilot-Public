@@ -283,7 +283,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 15112,8OH6,closed,Odot Dist 4 Summit Co Heliport,41.1423,-81.466797,no
 15113,8OH7,closed,Morris Field,40.88230133,-80.60030365,no
 15173,8TA4,closed,Laseair Airport,29.445499,-95.007697,no
-15185,8TE6,closed,Faith Cattle Company, Longfellow Ranch Airport,30.3002,-102.717002,no
+15185,8TE6,closed,"Faith Cattle Company, Longfellow Ranch Airport",30.3002,-102.717002,no
 15223,8U5,closed,Sunburst Airport,48.886701,-111.921996,no
 15227,8VA1,closed,Grand Pre Farm Airport,38.454303,-78.186402,no
 15262,8XS3,closed,Pegasus Place Airstrip,30.56690025,-97.82949829,no
@@ -310,7 +310,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 299315,AGGQ,closed,Ontong Java Atoll Airstrip,-5.515,159.5277778,no
 299321,AHT,closed,Amchitka Army Airfield,51.37777778,179.2591667,no
 16134,AK42,closed,Valley Hospital - Palmer Heliport,61.600899,-149.106009,no
-16140,AK48,closed,Valley Hospital, Wasilla Heliport,61.585202,-149.425004,no
+16140,AK48,closed,"Valley Hospital, Wasilla Heliport",61.585202,-149.425004,no
 16146,AK53,closed,Downwind Landing Airport,61.582298,-148.996994,no
 16196,AL04,closed,Pleasant View Farm Airport,30.4627,-87.525002,no
 16248,AL56,closed,Jones Light Aviation Airport,32.500099,-85.083298,no
@@ -469,7 +469,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 39671,CA-0025,closed,Anglemont Airport,50.96840035,-119.1668129,no
 39672,CA-0026,closed,Arthur North Airport,43.883333,-80.533333,no
 39673,CA-0027,closed,Asbestos Airport,45.79425,-71.995339,no
-39674,CA-0028,closed,Sundance Guest Ranch C Airport,50.66669846,-121.2669983,no
+39674,CA-0028,closed,"Sundance Guest Ranch ""C"" Airport",50.66669846,-121.2669983,no
 39675,CA-0029,closed,Crystal Lake Airport,48.71670151,-91.26670074,no
 39676,CA-0030,closed,Atkinson Point Airport,69.93333435,-131.4166718,no
 39677,CA-0031,closed,Austin Airport,49.93333435,-98.91666412,no
@@ -1093,7 +1093,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 1553,CSR4,closed,Rimouski (Hydro-Qu_bec) Heliport,48.44110107,-68.54250336,no
 298663,CST9,closed,Mont-Tremblant / Lac Ouimet Water Aerodrome,46.162354,-74.585495,no
 16962,CT04,closed,Grass Land Air Field,42.039002,-73.287103,no
-17048,CT94,closed,Tilcon Roncari, Inc. Heliport,41.936501,-72.735101,no
+17048,CT94,closed,"Tilcon Roncari, Inc. Heliport",41.936501,-72.735101,no
 1598,CTH4,closed,Ottawa / Hull (Expressair) Heliport,45.464377,-75.737363,no
 1602,CTJ5,closed,Quebec / H_pital de l'enfant-J_sus Heliport,46.837568,-71.225179,no
 1610,CTQ4,closed,Lennoxville (Airview) Airport,45.35329819,-71.86250305,no
@@ -1247,7 +1247,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 29243,EKRR,closed,Ro Airport,55.21030045,14.87860012,no
 29250,EKVA,closed,Vandel Air Base,55.701,9.21358,no
 29252,EKVL,closed,Vaerlose Air Base,55.76950073,12.32390022,no
-28117,ENFB,closed,Oslo, Fornebu Airport,59.89580154,10.6171999,no
+28117,ENFB,closed,"Oslo, Fornebu Airport",59.89580154,10.6171999,no
 29259,ENFR,closed,Frigg QP Platform,59.87829971,2.065000057,no
 30517,ENVY,closed,V_r_y STOLport,67.68920135,12.68000031,no
 29302,ENXQ,closed,Frigg DP2 Platform,59.88560104,2.070830107,no
@@ -1554,7 +1554,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 308713,IT-0077,closed,Fly Igor,45.298056,8.0075,no
 317916,IT-0227,closed,Campo di Volo Pozzilli,41.50223,14.08533,no
 318225,IT-0237,closed,Aviosuperficie Privata Teggiano,40.415529,15.53648,no
-319455,IT-0288,closed,Aviosuperficie Il Ranch,45.5458333,11.7619444,no
+319455,IT-0288,closed,"Aviosuperficie ""Il Ranch""",45.5458333,11.7619444,no
 319458,IT-0289,closed,Conca del Re,39.853525,16.197045,no
 319488,IT-0296,closed,Campo di Volo Elio Zambrini,44.4323333,11.71815,no
 319627,IT-0326,closed,Campo di Volo Zagavia,45.360102,10.657102,no
@@ -1564,13 +1564,13 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 320068,IT-0396,closed,Campo di Volo Dedalo,42.92801,10.840792,no
 320165,IT-0412,closed,Campo di Volo Condor,42.9691667,10.6197222,no
 320178,IT-0417,closed,Aviosuperficie Coraine,45.588562,10.755719,no
-320254,IT-0432,closed,Aviosuperficie Val Vibrata 2,42.80427,13.794678,no
+320254,IT-0432,closed,"Aviosuperficie ""Val Vibrata 2""",42.80427,13.794678,no
 320268,IT-0433,closed,Aviosuperficie Deltaland,44.8714,10.9807,no
 320383,IT-0446,closed,Campo di Volo Policoro,40.163358,16.668648,no
 320451,IT-0453,closed,Aviosuperficie Roma-Nord,42.119945,12.604453,no
 320504,IT-0458,closed,Aviosuperficie Naviglio Grande,45.3972222,8.97,no
 320592,IT-0465,closed,Campo di Volo Albatros,43.754752,12.954763,no
-321452,IT-0510,closed,Campo di Volo Amanti Volo Ultraleggero,44.326615,11.659263,no
+321452,IT-0510,closed,"Campo di Volo ""Amanti Volo Ultraleggero""",44.326615,11.659263,no
 321713,IT-0520,closed,Silvia-Giovanni,45.26142,10.535641,no
 321758,IT-0523,closed,San Pancrazio Air Base,40.437947,17.857062,no
 312962,IUS,closed,Inus Airport,-5.7568,155.1498,no
@@ -2631,7 +2631,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 27009,YHOX,closed,Hoxton Park Airport,-33.90969849,150.852005,no
 27711,YLCI,closed,Lancelin Airport,-31.01666667,115.3333333,no
 38441,YLPR,closed,Lake Pedder Airport,-43.04999924,146.3329926,no
-27745,YLVT,closed,RAAF Williams, Laverton Base,-37.86360168,144.7460022,no
+27745,YLVT,closed,"RAAF Williams, Laverton Base",-37.86360168,144.7460022,no
 27748,YLZR,closed,[Duplicate] Lizard Island Airport,-14.673273,145.454571,no
 27802,YMQD,closed,Mount Mcquoid NDB,-33.110001,151.138,no
 27868,YOOB,closed,Cooranbong Airport,-33.06011175,151.4618969,no
@@ -3725,7 +3725,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 9393,2FL1,heliport,Broward County Civic Arena Heliport,26.15940094,-80.32559967,no
 9394,2FL2,heliport,Pbso-West County Jail Heliport,26.72439957,-80.66439819,no
 9396,2FL4,heliport,Brady Heliport,26.85580063,-80.0746994,no
-9397,2FL5,heliport,Brooksville International Airways, Inc. Heliport,28.4239006,-81.45970154,no
+9397,2FL5,heliport,"Brooksville International Airways, Inc. Heliport",28.4239006,-81.45970154,no
 9398,2FL7,heliport,Porta Target Heliport,27.92420006,-80.61370087,no
 9400,2FL9,heliport,Heart of Florida Medical Center Heliport,28.17970085,-81.63899994,no
 9410,2GA7,heliport,Morgan Falls Heliport,33.96590042,-84.36209869,no
@@ -4299,7 +4299,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 11000,42MA,heliport,Worcester Medical Center Heliport,42.25429916,-71.79769897,no
 45495,42MS,heliport,Oktibbeha County Hospital Heliport,33.4752306,-88.8209694,no
 310041,42NH,heliport,Androscoggin Valley Hospital Helipad,44.48673,-71.15433,no
-11008,42NJ,heliport,Inspira Medical Center, Inc / Elmer Hospital Heliport,39.589188,-75.1815278,no
+11008,42NJ,heliport,"Inspira Medical Center, Inc / Elmer Hospital Heliport",39.589188,-75.1815278,no
 11011,42OI,heliport,Stoney Creek Farm Heliport,40.09949875,-82.4654007,no
 11012,42OK,heliport,Kwtv Heliport,35.54729843,-97.49559784,no
 22658,42PA,heliport,Ransome Heliport,40.02259827,-75.58599854,no
@@ -4983,7 +4983,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 12982,65CA,heliport,Sce San Joaquin Heliport,36.18220139,-119.3339996,no
 322640,65FA,heliport,Physicians Regional Medical Center Heliport,26.2143889,-81.7316556,no
 12986,65FD,heliport,Yellow Whirley Bird Heliport,30.19890022,-85.82830048,no
-12987,65FL,heliport,Floridian National Golf Club, LLC Heliport,27.208599,-80.291398,no
+12987,65FL,heliport,"Floridian National Golf Club, LLC Heliport",27.208599,-80.291398,no
 12991,65IN,heliport,Wells County Sheriff's Department Heliport,40.73389816,-85.19609833,no
 12994,65KY,heliport,Arh Heliport,36.60950089,-83.74210358,no
 45474,65MI,heliport,Jet Pad Heliport,42.680556,-84.526667,no
@@ -5035,7 +5035,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 13142,69GA,heliport,Liberty Memorial Hospital Heliport,31.8458004,-81.59149933,no
 13146,69IN,heliport,Solar Nr 1 Heliport,38.22589874,-87.2696991,no
 13150,69LA,heliport,Our Lady of Lourdes Hospital Heliport,30.15184,-92.035783,no
-13158,69NJ,heliport,Lockheed Electronics Company, Inc. Heliport,40.64229965,-74.4213028,no
+13158,69NJ,heliport,"Lockheed Electronics Company, Inc. Heliport",40.64229965,-74.4213028,no
 13159,69NY,heliport,Moses Ludington Hospital Heliport,43.84790039,-70.43199921,no
 13170,69WA,heliport,O & M Facilities Heliport,46.42229843,-117.0390015,no
 13171,69WI,heliport,Kroy-Osceola Heliport,45.31999969,-92.68769836,no
@@ -5304,7 +5304,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 13927,77CO,heliport,UCH-MHS Memorial North Helipad,38.966362,-104.755997,no
 13928,77FD,heliport,Memorial Regional Hospital Heliport,26.01871065,-80.18131524,no
 45345,77FL,heliport,Celebration Health Hospital Heliport,28.330167,-81.542056,no
-323365,77GE,heliport,Medical Center, Navicent Health Heliport,32.83455,-83.63606,no
+323365,77GE,heliport,"Medical Center, Navicent Health Heliport",32.83455,-83.63606,no
 13930,77IL,heliport,Arch - Effingham Heliport,39.08000183,-88.54419708,no
 13931,77IN,heliport,Memorial Hospital At Jasper Heliport,38.39390182,-86.94080353,no
 13932,77IS,heliport,Mc Donald's Plaza Heliport,41.84809875,-87.94439697,no
@@ -5314,7 +5314,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 13945,77OI,heliport,University Hospitals of Cleveland Heliport,41.50590134,-81.60489655,no
 13946,77OK,heliport,Oklahoma National Guard Heliport,35.50009918,-97.46700287,no
 13947,77OR,heliport,BLM Heliport,44.2790218,-120.9021109,no
-13952,77TE,heliport,Rowco, Inc Heliport,29.54660034,-98.41059875,no
+13952,77TE,heliport,"Rowco, Inc Heliport",29.54660034,-98.41059875,no
 13957,77WA,heliport,Mount Carmel Hospital Ems Heliport,48.54079819,-117.8889999,no
 13964,78CA,heliport,Broadcom Corporation Heliport,33.65980148,-117.7669983,no
 13965,78CO,heliport,Pfister Ranch Heliport,39.17720032,-106.8560028,no
@@ -6570,7 +6570,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 45958,C54,heliport,Catron County Heliport,34.315722,-108.309889,no
 42747,CA-0187,heliport,Citadelle de Qu_bec Heliport,46.80739975,-71.20659637,no
 42748,CA-0200,heliport,Manic 5 Heliport,50.66110611,-68.74042511,no
-45047,CA-0409,heliport,Milford Heliport (PPR),43.9375235,-77.08777606,no
+45047,CA-0409,heliport,"Milford ""Heliport"" (PPR)",43.9375235,-77.08777606,no
 46503,CA-0433,heliport,Picton (Prince Edward County Hospital) Heliport,44.016353,-77.138047,no
 46505,CA-0435,heliport,WESCAM Burlington,43.34044901,-79.83305454,no
 46521,CA-0440,heliport,Point Petre Helipad,43.84324432,-77.14475691,no
@@ -7006,7 +7006,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 324715,CN30,heliport,Oceanside Fire Department Heliport,33.211584,-117.3541661,no
 16839,CN32,heliport,Boeing De Soto Heliport,34.23469925,-118.5849991,no
 16840,CN33,heliport,Airport Imperial Bldg Helistop,33.93030167,-118.3970032,no
-16841,CN34,heliport,Pg&E, Fresno Service Center Heliport,36.7193985,-119.7600021,no
+16841,CN34,heliport,"Pg&E, Fresno Service Center Heliport",36.7193985,-119.7600021,no
 16842,CN35,heliport,Hughes/Space & Comm. Heliport,33.93030167,-118.3980026,no
 16843,CN36,heliport,Shaws Hill Heliport,39.23320007,-121.0510025,no
 16846,CN39,heliport,Operating Engineers Pension Trust Bldg Heliport,34.06200027,-118.2910004,no
@@ -7380,7 +7380,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 43929,CZ-0012,heliport,Hospital Heliport,50.41027832,16.16666794,no
 43930,CZ-0013,heliport,Hradec Kr_lov_ Heliport,50.19333267,15.8255558,no
 43931,CZ-0014,heliport,Nov_ Amerika Heliport,50.38111115,15.86388874,no
-43932,CZ-0015,heliport,Teaching Hospital, Clinic Karim - Roof Heliport,50.19825363,15.8285284,no
+43932,CZ-0015,heliport,"Teaching Hospital, Clinic Karim - Roof Heliport",50.19825363,15.8285284,no
 43933,CZ-0016,heliport,Area Of Fire And Rescue Force Heliport,49.98860931,17.45361137,no
 43934,CZ-0017,heliport,Hospital Heliport,50.09719086,17.6850872,no
 43935,CZ-0018,heliport,Teaching Hospital Heliport,49.82722092,18.15694427,no
@@ -7456,7 +7456,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 315473,DE-0212,heliport,Evangelisches Jung-Stilling Hospital Helipad,50.8518,8.0184,no
 315477,DE-0214,heliport,Gie_en University Hospital Helipad,50.5759,8.6671,no
 315481,DE-0216,heliport,Heilbronn Hospital Helipad,49.1532,9.1918,no
-315485,DE-0217,heliport,Agrarflug HeliLift,51.7815448,7.9069549,no
+315485,DE-0217,heliport,"Agrarflug ""HeliLift""",51.7815448,7.9069549,no
 315587,DE-0245,heliport,SRH Hospital Helipad,50.603,10.7104,no
 315797,DE-0264,heliport,St Elisabeth Hospital Helipad,50.1902,10.0827,no
 315799,DE-0265,heliport,Autobahn Police Heliport,47.7689,9.8921,no
@@ -7618,24 +7618,24 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 44045,EKTB,heliport,T_rshavn/Bodanes Heliport,62.02170181,-6.757420063,no
 44023,EKTE,heliport,Tyra E Helideck,55.72152328,4.802055836,no
 44024,EKTW,heliport,Tyra W Helideck,55.71652985,4.750306129,no
-319096,ENAH,heliport,_l Heliport, Medical Center,60.629958,8.567017,no
-319092,ENAR,heliport,Arendal Heliport, Hospital,58.467493,8.754001,no
-319091,ENAX,heliport,_lesund Heliport, Hospital,62.462942,6.312435,no
-319093,ENBA,heliport,Barentsburg Heliport, Heerodden,78.101318,14.195676,no
+319096,ENAH,heliport,"_l Heliport, Medical Center",60.629958,8.567017,no
+319092,ENAR,heliport,"Arendal Heliport, Hospital",58.467493,8.754001,no
+319091,ENAX,heliport,"_lesund Heliport, Hospital",62.462942,6.312435,no
+319093,ENBA,heliport,"Barentsburg Heliport, Heerodden",78.101318,14.195676,no
 29253,ENBE,heliport,Balder A Platform,59.19060135,2.358059883,no
 298358,ENBG,heliport,Gr_nneviks_ren (Haukeland Sykehus) Heliport,60.37988,5.346029,no
 318215,ENBJ,heliport,Bj_rn_ya Heliport,74.5038889,19,no
-319089,ENDB,heliport,Domb_s Heliport, Brunshaugen,62.068943,9.121084,no
-319095,ENDH,heliport,Drammen Heliport, Hospital,59.747818,10.197439,no
+319089,ENDB,heliport,"Domb_s Heliport, Brunshaugen",62.068943,9.121084,no
+319095,ENDH,heliport,"Drammen Heliport, Hospital",59.747818,10.197439,no
 29256,ENDP,heliport,Draupner Platform,58.18809891,2.471110106,no
-319097,ENEL,heliport,Elverum Heliport, Innlandet Hospital,60.876961,11.569628,no
-319098,ENFJ,heliport,Fedje Heliport, H_gden,60.765738,4.733014,no
+319097,ENEL,heliport,"Elverum Heliport, Innlandet Hospital",60.876961,11.569628,no
+319098,ENFJ,heliport,"Fedje Heliport, H_gden",60.765738,4.733014,no
 319105,ENHO,heliport,Hopen Heliport,76.508067,25.014337,no
-319103,ENHX,heliport,Haugesund Heliport, Haugesund Hospital,59.408763,5.279548,no
+319103,ENHX,heliport,"Haugesund Heliport, Haugesund Hospital",59.408763,5.279548,no
 29263,ENLA,heliport,Ula Platform,59.1108017,2.845829964,no
-319109,ENLH,heliport,Lillehammer Heliport, Innlandet Hospital,61.11325,10.472165,no
-319110,ENLX,heliport,L_renskog Heliport, Ahus,59.932138,10.986877,no
-319142,ENNH,heliport,Namsos Heliport, Hospital,64.469981,11.504007,no
+319109,ENLH,heliport,"Lillehammer Heliport, Innlandet Hospital",61.11325,10.472165,no
+319110,ENLX,heliport,"L_renskog Heliport, Ahus",59.932138,10.986877,no
+319142,ENNH,heliport,"Namsos Heliport, Hospital",64.469981,11.504007,no
 29268,ENOA,heliport,Oseberg A Platform,60.49140167,2.825560093,no
 29269,ENOC,heliport,Oseberg C Platform,60.60779953,2.77444005,no
 319146,ENPY,heliport,Pyramiden Heliport,78.652322,16.337208,no
@@ -7646,13 +7646,13 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 29274,ENQE,heliport,Oseberg South Platform,60.38970184,2.795559883,no
 29275,ENQO,heliport,Oseberg East Platform,60.70000076,2.933609962,no
 29276,ENQU,heliport,Huldra Platform,60.8553009,2.648610115,no
-319143,ENRH,heliport,Oslo Heliport, Rikshospitalet,59.948467,10.716144,no
-319152,ENRT,heliport,Trondheim Heliport, Rosten,63.368133,10.374015,no
-319104,ENRX,heliport,H_nefoss Heliport, Ringerike Hospital,60.149111,10.255219,no
+319143,ENRH,heliport,"Oslo Heliport, Rikshospitalet",59.948467,10.716144,no
+319152,ENRT,heliport,"Trondheim Heliport, Rosten",63.368133,10.374015,no
+319104,ENRX,heliport,"H_nefoss Heliport, Ringerike Hospital",60.149111,10.255219,no
 29283,ENSL,heliport,Sleipner A Platform,58.36669922,1.906939983,no
-319147,ENSX,heliport,Stavanger Heliport, University Hospital,58.9521,5.730924,no
+319147,ENSX,heliport,"Stavanger Heliport, University Hospital",58.9521,5.730924,no
 319088,ENTR,heliport,St Olav's Hospital Helipad,63.419894,10.385954,no
-319144,ENUH,heliport,Oslo Heliport, Ullevaal,59.936215,10.736541,no
+319144,ENUH,heliport,"Oslo Heliport, Ullevaal",59.936215,10.736541,no
 29285,ENVF,heliport,Veslefrikk B Platform,60.78219986,2.896110058,no
 29286,ENVH,heliport,Valhall A Platform,56.27809906,3.392780066,no
 35127,ENVR,heliport,V_r_y Heliport,67.654555,12.727257,yes
@@ -8301,7 +8301,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 46571,IN-0048,heliport,Raj Bhavan Helipad,18.94265,72.79401667,no
 46572,IN-0049,heliport,Kohima Helipad,25.66306667,94.11393333,no
 46573,IN-0050,heliport,Phalodi Airfield,27.11283333,72.389,no
-46574,IN-0051,heliport,Aviation Research Centre, RAW Headquarter Helipad,30.70645,77.8615,no
+46574,IN-0051,heliport,"Aviation Research Centre, RAW Headquarter Helipad",30.70645,77.8615,no
 46575,IN-0052,heliport,Mathura Heliport,27.46423333,77.68241667,no
 301058,IN-0075,heliport,Itanagar (Naharlagun),27.111675,93.69610556,no
 301059,IN-0076,heliport,Itanagar (Naharlagun),27.111675,93.69610556,no
@@ -8459,7 +8459,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 18275,JY16,heliport,Merrill Creek Reservoir Heliport,40.74000168,-75.09059906,no
 18277,JY18,heliport,Warren Hopely Heliport,39.92829895,-74.7621994,no
 18278,JY19,heliport,Commerce Bank Heliport,39.97330093,-74.18219757,no
-18279,JY20,heliport,Bower, Schman & Welch Heliport,40.77080154,-74.98110199,no
+18279,JY20,heliport,"Bower, Schman & Welch Heliport",40.77080154,-74.98110199,no
 18280,JY21,heliport,New Jersey Turnpike Heliport,40.31650162,-74.49009705,no
 18281,JY22,heliport,Hackettstown Hospital Heliport,40.86180115,-74.81490326,no
 18282,JY23,heliport,Transco Station Sosh Heliport,40.52199936,-74.73179626,no
@@ -9286,7 +9286,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 317109,MX-0115,heliport,Veronica Heliport,19.441628,-99.177538,no
 317471,MX-0128,heliport,Nutec Heliport,25.6888,-100.5067,no
 317965,MX-0136,heliport,Reforma 222 Heliport,19.4289,-99.1621,no
-318687,MX-0141,heliport,Campamento Sur Helipad, Isla Guadelupe,28.883996,-118.293915,no
+318687,MX-0141,heliport,"Campamento Sur Helipad, Isla Guadelupe",28.883996,-118.293915,no
 318880,MX-0151,heliport,Esmeralda Tower I Helipad,19.42944,-99.205804,no
 318881,MX-0152,heliport,Esmeralda Tower II Helipad,19.42911,-99.205319,no
 318895,MX-0161,heliport,BBVA Bancomer Tower Helipad,19.422852,-99.174745,no
@@ -9372,7 +9372,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 22695,N95,heliport,Carlisle Barracks Heliport,40.20361613,-77.16305494,no
 22742,NBV,heliport,Coastal Systems Station Heliport,30.17410088,-85.75330353,no
 22747,NC04,heliport,Watauga County Hospital Heliport,36.19929886,-81.65149689,no
-22750,NC07,heliport,Charles A. Cannon, Jr Memorial Hospital Heliport,36.06669998,-81.86669922,no
+22750,NC07,heliport,"Charles A. Cannon, Jr Memorial Hospital Heliport",36.06669998,-81.86669922,no
 322195,NC23,heliport,Johnston Memorial Hospital Heliport,35.515658,-78.333507,no
 22766,NC24,heliport,Delta Air Base,35.2112999,-80.71920013,no
 22775,NC33,heliport,Mcdowell Hospital Heliport,35.66579819,-82.02420044,no
@@ -9652,23 +9652,23 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 23303,NM85,heliport,Gila Regional Heliport,32.79809952,-108.2610016,no
 45543,NM93,heliport,Roswell Regional Hospital Heliport,33.416667,-104.521667,no
 45541,NM94,heliport,Nor Lea County General Hospital Heliport,32.965278,-103.346111,no
-316518,NO-0037,heliport,Sandnessj_en Heliport, Hospital,66.01786,12.615999,no
+316518,NO-0037,heliport,"Sandnessj_en Heliport, Hospital",66.01786,12.615999,no
 318217,NO-0044,heliport,Haukeland Universitetssykehus Heliport,60.373145,5.358187,no
 318218,NO-0045,heliport,Kalnes Sykehus Heliport,59.318903,11.023619,no
-319094,NO-0047,heliport,Bykle Heliport, Hovden,59.52691,7.368471,no
-319100,NO-0048,heliport,Harstad Heliport, Stangnes South,68.779639,16.595484,no
-319102,NO-0049,heliport,Harstad Heliport, Hospital,68.795754,16.525452,no
-319106,NO-0050,heliport,Kinsarvik Heliport, Husemoen,60.361583,6.740877,no
-319107,NO-0051,heliport,Kristiansand Heliport, Hospital,58.164124,7.981816,no
-319108,NO-0052,heliport,Kristiansund Heliport, Hospital,63.107631,7.723485,no
-319111,NO-0053,heliport,Molde Heliport, Hospital,62.737088,7.135475,no
+319094,NO-0047,heliport,"Bykle Heliport, Hovden",59.52691,7.368471,no
+319100,NO-0048,heliport,"Harstad Heliport, Stangnes South",68.779639,16.595484,no
+319102,NO-0049,heliport,"Harstad Heliport, Hospital",68.795754,16.525452,no
+319106,NO-0050,heliport,"Kinsarvik Heliport, Husemoen",60.361583,6.740877,no
+319107,NO-0051,heliport,"Kristiansand Heliport, Hospital",58.164124,7.981816,no
+319108,NO-0052,heliport,"Kristiansund Heliport, Hospital",63.107631,7.723485,no
+319111,NO-0053,heliport,"Molde Heliport, Hospital",62.737088,7.135475,no
 319148,NO-0055,heliport,Suldal Heliport,59.483614,6.272332,no
 319149,NO-0056,heliport,Stryn Heliport,61.898835,6.618564,no
-319150,NO-0057,heliport,T_nsberg Heliport, Hospital,59.273235,10.416182,no
-319151,NO-0058,heliport,Troms_ Heliport, University Hospital,69.683925,18.984699,no
+319150,NO-0057,heliport,"T_nsberg Heliport, Hospital",59.273235,10.416182,no
+319151,NO-0058,heliport,"Troms_ Heliport, University Hospital",69.683925,18.984699,no
 320989,NO-0065,heliport,Haakonsvern Heliport,60.332448,5.232265,no
 322518,NO-0066,heliport,K_rst_ Heliport,59.279738,5.527145,no
-322798,NO-0069,heliport,Bergen Heliport, Sandviken,60.409302,5.317071,no
+322798,NO-0069,heliport,"Bergen Heliport, Sandviken",60.409302,5.317071,no
 45690,NR00,heliport,Valley Heliport,35.081111,-78.945833,no
 45682,NR01,heliport,Kitty Hawk One Heliport,36.071944,-75.693611,no
 45684,NR05,heliport,Lowe'S Wilkesboro Heliport,36.146222,-81.203861,no
@@ -9725,7 +9725,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 23469,NY90,heliport,Medina Memorial Hospital Heliport,43.22309875,-78.39810181,no
 45661,NY93,heliport,Phillipsburg Landing Heliport,41.432333,-74.365167,no
 23475,NY99,heliport,Lakeview Shock Incarceration Center Heliport,42.40729904,-79.44059753,no
-308629,NZ-0019,heliport,Jennian Hangar, Waikato Hospital Heliport,-37.806281,175.280897,no
+308629,NZ-0019,heliport,"Jennian Hangar, Waikato Hospital Heliport",-37.806281,175.280897,no
 315020,NZ-0023,heliport,Middlemore Hospital Helipad,-36.9632,174.8452,no
 321157,NZ-0024,heliport,Wairakei Helipad,-38.643244,176.088245,no
 44831,NZAH,heliport,Taharoa Iron Sands Heliport,-38.16500092,174.7050018,no
@@ -9949,7 +9949,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 24009,PA38,heliport,Beaver Run Heliport,40.4333992,-75.36630249,no
 24012,PA41,heliport,Butler Memorial Hospital Heliport,40.86669922,-79.88140106,no
 24013,PA42,heliport,Berwick Hospital Corporation Personal Use Heliport,41.07040024,-76.23130035,no
-24017,PA46,heliport,Horizon Hospital System, Greenville Heliport,41.4117012,-80.37280273,no
+24017,PA46,heliport,"Horizon Hospital System, Greenville Heliport",41.4117012,-80.37280273,no
 24019,PA48,heliport,Holy Spirit A Geisinger Affiliate Heliport,40.25227,-76.920639,no
 24021,PA50,heliport,Bloomsburg Hospital Heliport,41.0094986,-76.45240021,no
 24026,PA56,heliport,Upmc Passavant Cranberry Heliport,40.68399811,-80.09649658,no
@@ -10479,7 +10479,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 24420,SC22,heliport,Richland Memorial Hospital Heliport,34.0279007,-81.03340149,no
 24428,SC30,heliport,Savannah River Site (Department of Energy) Heliport,33.28359985,-81.72640228,no
 24429,SC31,heliport,Springs Memorial Heliport,34.71879959,-80.78369904,no
-24451,SC53,heliport,Usar Center, Clemson Heliport,34.6833992,-82.81790161,no
+24451,SC53,heliport,"Usar Center, Clemson Heliport",34.6833992,-82.81790161,no
 24452,SC54,heliport,Milliken & County Heliport,34.98680115,-81.95339966,no
 24457,SC59,heliport,Palmetto Heliport,34.76399994,-82.39430237,no
 24460,SC62,heliport,Hampton Regional Medical Center Heliport,32.85240173,-81.08869934,no
@@ -11808,7 +11808,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 301492,US-0193,heliport,Cape May County Dept of Mosquito Control Helistop,39.10551389,-74.87705556,no
 301493,US-0194,heliport,National Guard Vineland Armory Helistop,39.45,-75.04416667,no
 301542,US-0195,heliport,South Jersey Healthcare Helipad,39.44491667,-75.06058333,no
-301544,US-0196,heliport,NJSP - Troop A HQ Helistop.,39.57819444,-74.86691667,no
+301544,US-0196,heliport,"NJSP - Troop ""A"" HQ Helistop.",39.57819444,-74.86691667,no
 301545,US-0197,heliport,J F Creamer Helistop,39.62,-74.85638889,no
 301546,US-0198,heliport,NG Hammonton Armory Helistop,39.62694444,-74.79055556,no
 301987,US-0202,heliport,Colts Neck Police Heliport,40.29405556,-74.19011111,no
@@ -12357,7 +12357,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 26017,WV34,heliport,Bluefield Regional Medical Center Heliport,37.25460052,-81.23370361,no
 26019,WV36,heliport,Alloy Heliport,38.13869858,-81.27760315,no
 26028,WV45,heliport,Princeton Community Hospital Heliport,37.36259842,-81.11370087,no
-26031,WV48,heliport,City Hospital, Inc. Heliport,39.47679901,-77.98000336,no
+26031,WV48,heliport,"City Hospital, Inc. Heliport",39.47679901,-77.98000336,no
 26032,WV49,heliport,Center Wheeling Parking Garage Heliport,40.06010056,-80.72290039,no
 26033,WV50,heliport,Dickirson Heliport,38.81230164,-81.69619751,no
 26034,WV51,heliport,University Hospital Heliport,39.65010071,-79.95809937,no
@@ -12740,7 +12740,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 3420,KBNA,large_airport,Nashville International Airport,36.12450027,-86.67819977,yes
 3421,KBOI,large_airport,Boise Air Terminal/Gowen field,43.56439972,-116.2229996,yes
 3422,KBOS,large_airport,General Edward Lawrence Logan International Airport,42.36429977,-71.00520325,yes
-3429,KBTR,large_airport,Baton Rouge Metropolitan, Ryan Field,30.53319931,-91.14959717,yes
+3429,KBTR,large_airport,"Baton Rouge Metropolitan, Ryan Field",30.53319931,-91.14959717,yes
 3431,KBUF,large_airport,Buffalo Niagara International Airport,42.94049835,-78.73220062,yes
 3435,KBWI,large_airport,Baltimore/Washington International Thurgood Marshall Airport,39.17539978,-76.66829681,yes
 3438,KCAE,large_airport,Columbia Metropolitan Airport,33.93880081,-81.11949921,yes
@@ -13773,7 +13773,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 2163,EBOS,medium_airport,Ostend-Bruges International Airport,51.19889832,2.862220049,yes
 2184,EDAC,medium_airport,Altenburg-Nobitz Airport,50.98194504,12.50638866,yes
 2187,EDAH,medium_airport,Heringsdorf Airport,53.87870026,14.15229988,yes
-2199,EDBM,medium_airport,Magdeburg City Airport,52.073612,11.626389,no
+2199,EDBM,medium_airport,"Magdeburg ""City"" Airport",52.073612,11.626389,no
 2743,EDBN,medium_airport,Neubrandenburg Airport,53.6022,13.306,no
 2200,EDBR,medium_airport,Rothenburg/G_rlitz Airport,51.36333466,14.94999981,no
 2204,EDCD,medium_airport,Cottbus-Drewitz Airport,51.889442,14.531944,no
@@ -13964,7 +13964,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 2572,ENCN,medium_airport,Kristiansand Airport,58.20420074,8.085370064,yes
 2574,ENDU,medium_airport,Bardufoss Airport,69.05580139,18.54039955,yes
 324008,ENEN,medium_airport,Engel_y Airport,67.967222,14.9925,no
-2575,ENEV,medium_airport,Harstad/Narvik Airport, Evenes,68.49130249,16.67810059,yes
+2575,ENEV,medium_airport,"Harstad/Narvik Airport, Evenes",68.49130249,16.67810059,yes
 2576,ENFG,medium_airport,Leirin Airport,61.0155983,9.288060188,yes
 2577,ENFL,medium_airport,Flor_ Airport,61.58359909,5.024720192,yes
 2579,ENHD,medium_airport,Haugesund Airport,59.34529877,5.208360195,yes
@@ -13980,20 +13980,20 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 29266,ENNK,medium_airport,Narvik Framnes Airport,68.43689728,17.38669968,yes
 2588,ENNO,medium_airport,Notodden Airport,59.565701,9.21222,yes
 2589,ENOL,medium_airport,_rland Airport,63.69889832,9.604000092,yes
-28114,ENOV,medium_airport,_rsta-Volda Airport, Hovden,62.18000031,6.074100018,yes
-29277,ENRA,medium_airport,Mo i Rana Airport, R_ssvoll,66.36389923,14.30140018,yes
-29278,ENRM,medium_airport,R_rvik Airport, Ryum,64.83830261,11.14610004,yes
+28114,ENOV,medium_airport,"_rsta-Volda Airport, Hovden",62.18000031,6.074100018,yes
+29277,ENRA,medium_airport,"Mo i Rana Airport, R_ssvoll",66.36389923,14.30140018,yes
+29278,ENRM,medium_airport,"R_rvik Airport, Ryum",64.83830261,11.14610004,yes
 2591,ENRO,medium_airport,R_ros Airport,62.57839966,11.34230042,yes
 2592,ENRY,medium_airport,Moss-Rygge Airport,59.378817,10.785439,yes
-2593,ENSB,medium_airport,Svalbard Airport, Longyear,78.24610138,15.46560001,yes
+2593,ENSB,medium_airport,"Svalbard Airport, Longyear",78.24610138,15.46560001,yes
 29281,ENSH,medium_airport,Svolv_r Helle Airport,68.24330139,14.66919994,yes
 29282,ENSK,medium_airport,Stokmarknes Skagen Airport,68.5788269,15.03341675,yes
 2594,ENSN,medium_airport,Skien Airport,59.18500137,9.566940308,no
 2595,ENSO,medium_airport,Stord Airport,59.79190063,5.340849876,yes
 2596,ENSR,medium_airport,S_rkjosen Airport,69.78679657,20.95940018,yes
-2597,ENSS,medium_airport,Vard_ Airport, Svartnes,70.35540009,31.04490089,yes
+2597,ENSS,medium_airport,"Vard_ Airport, Svartnes",70.35540009,31.04490089,yes
 2598,ENST,medium_airport,Sandnessj_en Airport (Stokka),65.95680237,12.46889973,yes
-2600,ENTO,medium_airport,Sandefjord Airport, Torp,59.18669891,10.25860024,yes
+2600,ENTO,medium_airport,"Sandefjord Airport, Torp",59.18669891,10.25860024,yes
 29284,ENVD,medium_airport,Vads_ Airport,70.06529999,29.84469986,yes
 31012,EPBP,medium_airport,Bia_a Podlaska Airfield,52.00078,23.1325278,no
 2604,EPBY,medium_airport,Bydgoszcz Ignacy Jan Paderewski Airport,53.09680176,17.97769928,yes
@@ -14011,7 +14011,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 2627,EPPW,medium_airport,Powidz Military Air Base,52.37939835,17.85390091,no
 2628,EPRA,medium_airport,Radom Airport,51.3891983,21.21330071,yes
 2629,EPRZ,medium_airport,Rzesz_w-Jasionka Airport,50.11000061,22.0189991,yes
-2630,EPSC,medium_airport,Szczecin-Goleni_w Solidarno__ Airport,53.58470154,14.90219975,yes
+2630,EPSC,medium_airport,"Szczecin-Goleni_w ""Solidarno__"" Airport",53.58470154,14.90219975,yes
 2633,EPSN,medium_airport,Swidwin Military Air Base,53.79059982,15.82629967,no
 31016,EPTM,medium_airport,Tomaszow Mazowiecki Military Air Base,51.58440018,20.0977993,no
 2639,EPZG,medium_airport,Zielona G_ra-Babimost Airport,52.13850021,15.7986002,yes
@@ -14461,7 +14461,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 3237,HRYR,medium_airport,Kigali International Airport,-1.968629956,30.13949966,yes
 3238,HRZA,medium_airport,Kamembe Airport,-2.462239981,28.90789986,yes
 3239,HSDN,medium_airport,Dongola Airport,19.15390015,30.43009949,yes
-300862,HSFA,medium_airport,Paloich Airport, Heliport,10.529167,32.500556,no
+300862,HSFA,medium_airport,"Paloich Airport, Heliport",10.529167,32.500556,no
 3241,HSFS,medium_airport,El Fasher Airport,13.61489964,25.32460022,yes
 3242,HSKA,medium_airport,Kassala Airport,15.38749981,36.3288002,yes
 300673,HSMN,medium_airport,Merowe New Airport,18.44333333,31.84333333,no
@@ -15221,7 +15221,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 4144,LFLU,medium_airport,Valence-Chabeuil Airport,44.9216,4.9699,no
 4145,LFLV,medium_airport,Vichy-Charmeil Airport,46.16970062,3.403739929,no
 4146,LFLW,medium_airport,Aurillac Airport,44.89139938,2.421940088,yes
-4147,LFLX,medium_airport,Ch_teauroux-D_ols Marcel Dassault Airport,46.86027778,1.7211111,no
+4147,LFLX,medium_airport,"Ch_teauroux-D_ols ""Marcel Dassault"" Airport",46.86027778,1.7211111,no
 4148,LFLY,medium_airport,Lyon-Bron Airport,45.72719955,4.944270134,no
 4150,LFMC,medium_airport,Le Luc-Le Cannet Airport,43.38470078,6.387139797,no
 4151,LFMD,medium_airport,Cannes-Mandelieu Airport,43.54199982,6.953479767,yes
@@ -15333,8 +15333,8 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 30488,LHTL,medium_airport,T_k_l Airport,47.34529877,18.98080063,no
 4308,LIBA,medium_airport,Amendola Air Base,41.541401,15.7181,no
 4309,LIBC,medium_airport,Crotone Airport,38.9972,17.0802,yes
-4311,LIBF,medium_airport,Foggia Gino Lisa Airport,41.432899,15.535,yes
-4312,LIBG,medium_airport,Taranto-Grottaglie Marcello Arlotta Airport,40.517502,17.4032,no
+4311,LIBF,medium_airport,"Foggia ""Gino Lisa"" Airport",41.432899,15.535,yes
+4312,LIBG,medium_airport,"Taranto-Grottaglie ""Marcello Arlotta"" Airport",40.517502,17.4032,no
 4313,LIBN,medium_airport,Lecce Galatina Air Base,40.239201,18.133301,no
 4314,LIBP,medium_airport,Pescara International Airport,42.431702,14.1811,yes
 4315,LIBR,medium_airport,Brindisi __ Salento Airport,40.6576,17.947001,yes
@@ -16723,7 +16723,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 6258,SVBL,medium_airport,El Libertador Airbase,10.18337536,-67.55731964,no
 6259,SVBM,medium_airport,Barquisimeto International Airport,10.04274654,-69.35861969,yes
 6261,SVBS,medium_airport,Escuela Mariscal Sucre Airport,10.24997807,-67.64942169,yes
-6262,SVCB,medium_airport,Aeropuerto General Tomas de Heres. Ciudad Bolivar,8.122160912,-63.53695679,no
+6262,SVCB,medium_airport,"Aeropuerto ""General Tomas de Heres"". Ciudad Bolivar",8.122160912,-63.53695679,no
 6263,SVCD,medium_airport,Caicara del Orinoco Airport,7.625510216,-66.16280365,no
 6267,SVCL,medium_airport,Calabozo Airport,8.924655914,-67.41709137,no
 6268,SVCN,medium_airport,Canaima Airport,6.231988907,-62.85443115,yes
@@ -17086,7 +17086,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 42921,UWUM,medium_airport,Maksimovka Airport,54.83000183,56.16830063,no
 43671,UWWB,medium_airport,Buguruslan Severny Airport,53.71839905,52.37189865,no
 44614,UWWG,medium_airport,Bezymyanka Airfield,53.22000122,50.32500076,no
-3288,VA1G,medium_airport,Rewa Airport, Chorhata, REWA,24.503401,81.220299,yes
+3288,VA1G,medium_airport,"Rewa Airport, Chorhata, REWA",24.503401,81.220299,yes
 26431,VAAH,medium_airport,Sardar Vallabhbhai Patel International Airport,23.07719994,72.63469696,yes
 26432,VAAK,medium_airport,Akola Airport,20.6989994,77.05860138,no
 26433,VAAU,medium_airport,Aurangabad Airport,19.86269951,75.39810181,yes
@@ -17322,7 +17322,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 26774,WAMW,medium_airport,Bubung Airport,-1.038920045,122.7720032,no
 26778,WAON,medium_airport,Warukin Airport,-2.216559887,115.435997,yes
 26783,WAPL,medium_airport,Dumatumbun Airport,-5.66162014,132.7310028,yes
-26784,WAPP,medium_airport,Pattimura Airport, Ambon,-3.710259914,128.0890045,yes
+26784,WAPP,medium_airport,"Pattimura Airport, Ambon",-3.710259914,128.0890045,yes
 26791,WASF,medium_airport,Fakfak Airport,-2.920190096,132.2669983,yes
 26792,WASK,medium_airport,Kaimana Airport,-3.644520044,133.6959991,yes
 26793,WASO,medium_airport,Babo Airport,-2.532239914,133.4389954,no
@@ -18022,7 +18022,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 301227,CA-0512,seaplane_base,Val D'or / Huard Water Aerodrome,48.071742,-77.87384,no
 309926,CA-0530,seaplane_base,Hallowell Mills Cove Seaplane Base,44.03355479,-77.13638306,no
 310620,CA-0533,seaplane_base,Marina Senneterre,48.392617,-77.225038,no
-311164,CA-0534,seaplane_base,Lac William, Piste de glace (hiver seulement),46.12565999,-71.57472691,no
+311164,CA-0534,seaplane_base,"Lac William, Piste de glace (hiver seulement)",46.12565999,-71.57472691,no
 315836,CA-0550,seaplane_base,Cree Lake (Crystal Lodge) Water Aerodrome,57.4616,-106.7528,no
 316098,CA-0551,seaplane_base,Cameron Bay Water Aerodrome,66.06,-117.89,no
 316109,CA-0553,seaplane_base,Fort Resolution Water Aerodrome,61.164,-113.678,no
@@ -18438,7 +18438,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 322119,FR-0351,seaplane_base,Base Hydro-ULM Rh_ne Lavours,45.8108763,5.78132,no
 322120,FR-0352,seaplane_base,Base Hydro-ULM de Montrevel-en-Bresse,46.34499,5.142219,no
 322162,FR-0357,seaplane_base,Base Hydro-ULM d'Amance,48.35083333,4.505,no
-322200,FR-0358,seaplane_base,Base Hydro-ULM Henri Fabre,43.420833,5.077778,no
+322200,FR-0358,seaplane_base,"Base Hydro-ULM ""Henri Fabre""",43.420833,5.077778,no
 322201,FR-0359,seaplane_base,Base Hydro-ULM de La Ciotat,43.1737172,5.641389,no
 322202,FR-0360,seaplane_base,Base Hydro-ULM du Barrage de Pareloup,44.207865,2.722807,no
 322260,FR-0361,seaplane_base,Marseille Hydro,43.29909,5.347612,no
@@ -18590,7 +18590,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 23190,NK59,seaplane_base,Copake Lake Seaplane Base,42.14310074,-73.59120178,no
 23191,NK60,seaplane_base,Bostrup's Landing Seaplane Base,43.48479843,-74.35179901,no
 41543,NO-0003,seaplane_base,Kilen Seaplane Base,59.89238,10.59803,no
-322797,NO-0068,seaplane_base,Bergen Seaplane Base, Sandviken,60.408154,5.319931,no
+322797,NO-0068,seaplane_base,"Bergen Seaplane Base, Sandviken",60.408154,5.319931,no
 317282,NUF,seaplane_base,Castlereagh Lake Seaplane Base,6.86,80.584,no
 23442,NY61,seaplane_base,Eagle Nest Seaplane Base,43.82979965,-74.49539948,no
 23461,NY83,seaplane_base,Essex Boatworks Seaplane Base,44.30009842,-73.34960175,no
@@ -19149,7 +19149,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 7180,0G0,small_airport,North Buffalo Suburban Airport,43.10319901,-78.70330048,no
 7182,0GA0,small_airport,Halls Flying Ranch Airport,33.35620117,-84.36710358,no
 7183,0GA1,small_airport,Mustang Field,34.47790146,-82.89710236,no
-7184,0GA2,small_airport,Airnautique, Inc. Airport,34.37789917,-82.9457016,no
+7184,0GA2,small_airport,"Airnautique, Inc. Airport",34.37789917,-82.9457016,no
 7185,0GA3,small_airport,Ayresouth Airport,33.77009964,-85.06079865,no
 7186,0GA4,small_airport,Paradise Falls Airport,33.81290054,-83.50569916,no
 7188,0GA6,small_airport,Sunset Strip,33.73339844,-83.81880188,no
@@ -20364,7 +20364,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 9086,25XS,small_airport,O'Brien Airpark,32.48649979,-96.8463974,no
 9087,25Y,small_airport,New York Mills Municipal Airport,46.50220108,-95.33750153,no
 9089,26AL,small_airport,Richardson Field,30.62420082,-88.2786026,no
-9090,26AR,small_airport,Fly N K Airport,35.21549988,-91.80780029,no
+9090,26AR,small_airport,"Fly ""N"" K Airport",35.21549988,-91.80780029,no
 9091,26AZ,small_airport,Flying Dare's Ranch Airport,34.01200104,-113.2030029,no
 9092,26CA,small_airport,Boeckmann Ranch Airport,38.42689896,-121.1719971,no
 9097,26FD,small_airport,Hennessy Airport,27.05120087,-81.84809875,no
@@ -20922,7 +20922,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 9942,30TX,small_airport,Burg Lake Aero Airport,30.2323611,-98.6549722,yes
 9945,30WA,small_airport,Weller Canyon Airport,46.31489944,-118.1780014,no
 9946,30WI,small_airport,Chambers Island Airport,45.19189835,-87.35929871,no
-9947,30XS,small_airport,Farwell Spraying Service, Inc Airport,34.38230133,-103.0179977,no
+9947,30XS,small_airport,"Farwell Spraying Service, Inc Airport",34.38230133,-103.0179977,no
 9948,31A,small_airport,Sugar Valley Airport,35.98540115,-80.51119995,no
 9949,31AK,small_airport,Dalrymple's Airport,64.832901,-147.4250031,no
 9951,31AZ,small_airport,Benson Airport,31.96369934,-110.2600021,no
@@ -22110,7 +22110,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 11709,4SD4,small_airport,Dan's Airport,44.04169846,-103.0459976,no
 11711,4TA0,small_airport,Massimiliano Memorial Field,29.35549927,-95.6638031,no
 11712,4TA1,small_airport,Warschun Ranch Airport,33.30289841,-97.11139679,no
-11713,4TA3,small_airport,Costello Island, Inc Airport,32.89870071,-98.46009827,no
+11713,4TA3,small_airport,"Costello Island, Inc Airport",32.89870071,-98.46009827,no
 11714,4TA4,small_airport,Pea Patch Airport,29.93910027,-96.05970001,no
 11715,4TA5,small_airport,Lucky G Airport,33.8526001,-98.64620209,no
 11716,4TA6,small_airport,Comanche Caves Ranch Airport,30.0223999,-99.38369751,no
@@ -22717,7 +22717,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 12651,5S5,small_airport,Lake Billy Chinook State Airport,44.51929855,-121.3209991,no
 12653,5T0,small_airport,Ward Airpark,29.50309944,-95.93499756,no
 12654,5T4,small_airport,Herreid Municipal Airport,45.85419846,-100.0749969,no
-12655,5TA0,small_airport,Hamilton Aircraft, Inc Airport,32.73199844,-102.9440002,no
+12655,5TA0,small_airport,"Hamilton Aircraft, Inc Airport",32.73199844,-102.9440002,no
 12656,5TA1,small_airport,Charping Airport,31.19350052,-97.40720367,no
 12657,5TA2,small_airport,Rabbit Run Airport,31.45459938,-97.25029755,no
 12658,5TA3,small_airport,Pearson Ranch Private Airport,29.35860062,-97.1446991,no
@@ -28333,7 +28333,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 312210,DE-0137,small_airport,Bensheimer Stadtwiesen Airfield,49.6926,8.5819,no
 312569,DE-0138,small_airport,Dehausen Airfield,51.4635,9.04925,no
 312570,DE-0139,small_airport,Braunfels Airfield,50.5255,8.393,no
-312571,DE-0140,small_airport,Der Dingel Airfield,51.536,9.3805,no
+312571,DE-0140,small_airport,"""Der Dingel"" Airfield",51.536,9.3805,no
 312688,DE-0141,small_airport,Dornberg-Sontra Airfield,51.0873,9.9155,no
 312689,DE-0142,small_airport,Eibinger Forstwiese Airfield,50.0186,7.89324,no
 312694,DE-0143,small_airport,Garbenheimer Wiesen Airfield,50.574,8.529,no
@@ -28364,7 +28364,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 314554,DE-0170,small_airport,Oberems Airfield,50.242,8.3986,no
 314555,DE-0171,small_airport,Arnsberg-Ruhrwiese Airfield,51.3878,8.0605,no
 314556,DE-0172,small_airport,Bergheim Airfield,50.9772,6.6085,no
-314690,DE-0173,small_airport,Ziegenhain Airfield - Der Ring,50.9026,9.2403,no
+314690,DE-0173,small_airport,"Ziegenhain Airfield - ""Der Ring""",50.9026,9.2403,no
 314691,DE-0174,small_airport,Borghorst Airfield,52.1505,7.4531,no
 314692,DE-0175,small_airport,B_ren Airfield,51.5427,8.5808,no
 314766,DE-0176,small_airport,Dorsten Airfield,51.6621,6.9856,no
@@ -28461,8 +28461,8 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 315891,DE-0280,small_airport,Bad Marienberg Airfield,50.6611,8.0276,no
 315892,DE-0281,small_airport,Baumerlenbach Airfield,49.231,9.421,no
 315932,DE-0282,small_airport,Berneck Airfield,48.5737,9.7291,no
-315935,DE-0283,small_airport,UL-Flugplatz Auf der Schaufel,51.0938889,9.1483333,no
-315936,DE-0284,small_airport,Sonderlandeplatz Ro_berg,49.6422222,7.6838889,no
+315935,DE-0283,small_airport,"UL-Flugplatz ""Auf der Schaufel""",51.0938889,9.1483333,no
+315936,DE-0284,small_airport,"Sonderlandeplatz ""Ro_berg""",49.6422222,7.6838889,no
 315937,DE-0285,small_airport,UL-Flugplatz Brakel,51.7372222,9.2011111,no
 315939,DE-0286,small_airport,UL-Fluglatz Ernzen,49.8288889,6.4355556,no
 315940,DE-0287,small_airport,UL-Flugplatz Drensteinfurt,51.7672222,7.7469444,no
@@ -28514,7 +28514,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 316052,DE-0333,small_airport,Sch_fhalde Airfield,48.6922,10.0995,no
 316053,DE-0334,small_airport,Sinsheim Airfield,49.2472,8.8938,no
 316054,DE-0335,small_airport,Schwann-Conweiler Airfield,48.8382,8.5432,no
-316121,DE-0336,small_airport,Sonderlandeplatz Altes Lager,51.9961111,12.9838889,no
+316121,DE-0336,small_airport,"Sonderlandeplatz ""Altes Lager""",51.9961111,12.9838889,no
 316126,DE-0337,small_airport,Crawinkel,50.7783333,10.8169444,no
 316129,DE-0338,small_airport,G_nching UL,49.2672222,11.572777,no
 316132,DE-0339,small_airport,Hartenstein-Thierfeld UL,50.6761111,12.6816667,no
@@ -29514,7 +29514,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 2547,EKLS,small_airport,L_s_ Airport,57.27719879,11.00010014,no
 29240,EKLV,small_airport,Lemvig Airport,56.50299835,8.311329842,no
 30041,EKMN,small_airport,Kostervig Mon Airport,54.96469879,12.19439983,no
-29241,EKNM,small_airport,Mors_ Airport, T_ds_,56.82440186,8.786669731,no
+29241,EKNM,small_airport,"Mors_ Airport, T_ds_",56.82440186,8.786669731,no
 2550,EKPB,small_airport,Krus_-Padborg Airport,54.87030029,9.279009819,no
 30324,EKRA,small_airport,Rarup Airport,55.77859879,9.938890457,no
 29242,EKRD,small_airport,Randers Airport,56.50659943,10.03639984,no
@@ -29757,7 +29757,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 321029,ES-0110,small_airport,Aer_dromo de C_rdoba-Villarrubia,37.8367253,-4.8964369,no
 321030,ES-0111,small_airport,Aer_dromo Villanueva del Pardillo,40.500107,-3.9920997,no
 321032,ES-0112,small_airport,Camale_o-Arta_in ULM,43.1780066,-4.675688,no
-321046,ES-0114,small_airport,Aer_dromo Puente de Genave,38.3666778,-2.7941751,no
+321046,ES-0114,small_airport,"Aer_dromo ""Puente de Genave""",38.3666778,-2.7941751,no
 321047,ES-0115,small_airport,Aer_drom de Viladamat,42.142843,3.051141,no
 321064,ES-0116,small_airport,Ager Altiport,42.02277,0.7491,no
 321065,ES-0117,small_airport,Alcolea Airstrip,37.9456192,-4.6154163,no
@@ -29849,9 +29849,9 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 321584,ES-0203,small_airport,Aer_dromo Lanzahita UL,40.186112,-4.946256,no
 321601,ES-0204,small_airport,Mollerussa UL,41.6122017,0.8541227,no
 321603,ES-0205,small_airport,Castej_n de Sos,42.516675,0.483282,no
-321607,ES-0206,small_airport,Aer_dromo privado Villamartin2,36.827132,-5.603212,no
+321607,ES-0206,small_airport,"Aer_dromo privado ""Villamartin2""",36.827132,-5.603212,no
 321608,ES-0207,small_airport,Aer_dromo Calzada de Valdunciel,41.07545,-5.7280355,no
-321609,ES-0208,small_airport,Aer_dromo forestal Requena 2,39.4422585,-1.0493454,no
+321609,ES-0208,small_airport,"Aer_dromo forestal ""Requena 2""",39.4422585,-1.0493454,no
 321610,ES-0209,small_airport,Aer_dromo de Gri__n,40.223781,-3.866911,no
 321624,ES-0210,small_airport,Palma del Rio 2 UL,37.668501,-5.262086,no
 321633,ES-0211,small_airport,Campo de Vuelo de Oteo,43.0168667,-3.3120333,no
@@ -29867,12 +29867,12 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 321727,ES-0221,small_airport,Ruidera2,39.02495,-2.911927,no
 321728,ES-0222,small_airport,Pista forestal de Fuencaliente,38.5264323,-4.389622,no
 321742,ES-0224,small_airport,Campo de Vuelo de Pozorrubio,39.825953,-2.95236,no
-321759,ES-0225,small_airport,Aer_dromo Forestal Puebla de Don Rodrigo,39.066067,-4.488502,no
+321759,ES-0225,small_airport,"Aer_dromo Forestal ""Puebla de Don Rodrigo""",39.066067,-4.488502,no
 321793,ES-0226,small_airport,Aer_dromo forestal de Herrera del Duque,39.2264442,-4.8863799,no
 321952,ES-0230,small_airport,Sotillo de la Andrada,41.27115,-3.63005,no
 324160,ES-0231,small_airport,[Duplicate] Aerodromo Forestal de Las Torres de Aliste,41.683056,-6.306389,no
 324536,ES-0232,small_airport,Aer_dromo del Jarde,28.391185,-13.982968,no
-324773,ES-0233,small_airport,Aer_dromo Forestal La Fonfr_a,42.3466117,-2.9109476,no
+324773,ES-0233,small_airport,"Aer_dromo Forestal ""La Fonfr_a""",42.3466117,-2.9109476,no
 324795,ES-0234,small_airport,C_breces Airfield,43.388518,-4.207752,no
 2645,ESCM,small_airport,Uppsala Airport,59.89730072,17.58860016,no
 29311,ESFA,small_airport,H_ssleholm Bokeberg Airfield,56.134407,13.875647,no
@@ -32058,7 +32058,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 17608,H49,small_airport,Sackman Field,38.45059967,-90.23590088,no
 17609,H57,small_airport,Bismarck Memorial Airport,37.75419998,-90.6167984,no
 17611,H66,small_airport,Nowata Municipal Airport,36.72090149,-95.62529755,no
-17612,H75,small_airport,Hernando Village Airpark, Inc Airport,34.7981987,-90.03700256,no
+17612,H75,small_airport,"Hernando Village Airpark, Inc Airport",34.7981987,-90.03700256,no
 17614,H80,small_airport,Field of Dreams Airport,44.36500168,-83.76249695,no
 316236,H81,small_airport,River Falls Airport,35.0825,-101.7541,no
 17615,H97,small_airport,Pawnee Municipal Airport,36.38339996,-96.81030273,no
@@ -32516,7 +32516,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 41492,ID-0003,small_airport,Pulau Panjang Airport,-5.644444,106.5625,no
 41493,ID-0004,small_airport,Cilacap Wulung Airport,-7.720570087,109.0179977,no
 41494,ID-0005,small_airport,Ketapang Airport,-6.899862766,113.2828903,no
-46586,ID-0006,small_airport,Noto Hadinegoro, Jember Airport,-8.238056,113.694439,yes
+46586,ID-0006,small_airport,"Noto Hadinegoro, Jember Airport",-8.238056,113.694439,yes
 41497,ID-0008,small_airport,Berau Airport,2.163500071,117.6869965,no
 46490,ID-0010,small_airport,Jatiwangi Airport,-6.678375,108.2522194,no
 46587,ID-0011,small_airport,Blimbingsari Airport,-8.31015,114.3401,yes
@@ -32826,7 +32826,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 322072,IE-0048,small_airport,Camus Airstrip,53.171468,-8.113414,no
 322163,IE-0049,small_airport,Millicent Airfield,53.27035,-6.68188,no
 322164,IE-0050,small_airport,Milltownpass Airfield,53.452082,-7.237543,no
-322258,IE-0051,small_airport,Parke Airstrip,55.161563,-7.710258,no
+322258,IE-0051,small_airport,"""Parke"" Airstrip",55.161563,-7.710258,no
 324511,IE-0052,small_airport,Lough Sheelin Airstrip,53.7964,-7.28455,no
 17879,IG02,small_airport,Ratcliff Airport,40.27310181,-86.90750122,no
 17880,IG03,small_airport,Bluebird Airport,39.39170074,-86.59999847,no
@@ -33018,7 +33018,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 3304,IN-VA51,small_airport,Banswara Airport,23.5897007,74.31269836,no
 3305,IN-VA53,small_airport,Dhulia Airport,20.92650032,74.73709869,no
 3306,IN-VA74,small_airport,Abu Road Airport,24.49419975,72.78150177,no
-44629,IN-VOHP,small_airport,Kopal,Hospet Airport,15.358334,76.51667,no
+44629,IN-VOHP,small_airport,"Kopal,Hospet Airport",15.358334,76.51667,no
 18072,IN00,small_airport,Sutton Airport,40.54529953,-87.05220032,no
 18073,IN01,small_airport,Kephart Field Airport,39.4861111,-86.1486111,no
 18074,IN03,small_airport,Alford Airpark,38.46390152,-87.25,no
@@ -33201,7 +33201,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 18245,IS94,small_airport,Johnson Airport,41.60559845,-88.66120148,no
 18246,IS95,small_airport,Harrington Farms Airport,41.55860138,-88.66449738,no
 46181,IT-0001,small_airport,Aviosuperficie Il Falco,45.268665,7.947943,no
-46546,IT-0002,small_airport,Campo di Volo Senigallia Nord,43.738267,13.183208,no
+46546,IT-0002,small_airport,"Campo di Volo ""Senigallia Nord""",43.738267,13.183208,no
 46547,IT-0003,small_airport,Aviosuperficie Palazzolo Avio,43.55916,12.155903,no
 298337,IT-0004,small_airport,Aviosuperficie Eremo della Giubiliana,36.861287,14.627008,no
 298689,IT-0005,small_airport,Aviosuperficie Bovarella,37.792694,12.845078,no
@@ -33222,7 +33222,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 298726,IT-0020,small_airport,Campo di Volo Camemi,37.263261,14.626579,no
 298729,IT-0021,small_airport,Campo di Volo Elpifly,36.81090817,14.54477191,no
 298732,IT-0022,small_airport,Campo di Volo Marano,37.386467,14.143471,no
-298735,IT-0023,small_airport,Campo di Volo Il Cherubino,37.59440976,14.88025188,no
+298735,IT-0023,small_airport,"Campo di Volo ""Il Cherubino""",37.59440976,14.88025188,no
 298738,IT-0024,small_airport,Campo di Volo Pachino Fly Dream,36.726571,15.033717,no
 298742,IT-0025,small_airport,Campo di Volo Albatros,37.972443,13.771856,no
 298746,IT-0026,small_airport,Campo di Volo Ali Val di Neto,39.184793,17.107129,no
@@ -33237,14 +33237,14 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 308673,IT-0037,small_airport,Aviosuperficie Merlo Romano,44.834433,7.363565,no
 308674,IT-0038,small_airport,Aviosuperficie Acqui Terme,44.677488,8.50124,no
 308675,IT-0039,small_airport,Aviosuperficie di Meggiana,45.747211,8.040075,no
-308676,IT-0040,small_airport,Aviosuperficie Marc Ingegno,45.778056,8.268611,no
+308676,IT-0040,small_airport,"Aviosuperficie ""Marc Ingegno""",45.778056,8.268611,no
 308677,IT-0041,small_airport,ANGIALE,44.83361111,7.530555556,no
 308678,IT-0042,small_airport,Astigiana,44.888806,8.354867,no
 308679,IT-0043,small_airport,Aviosuperficie Boglietto,44.758611,8.183056,no
 308680,IT-0044,small_airport,Campo di Volo Beltrutta,44.498333,7.723333,no
 308681,IT-0045,small_airport,Aviosuperficie Cascina Colombare,45.496667,8.527167,no
 308682,IT-0046,small_airport,CASCINA GRECIA,45.35,7.783333333,no
-308683,IT-0047,small_airport,Aviosuperficie Cascina Valentino,44.6975,7.401944,no
+308683,IT-0047,small_airport,"Aviosuperficie ""Cascina Valentino""",44.6975,7.401944,no
 308684,IT-0048,small_airport,Aviosuperficie CASTELNUOVO DON BOSCO,45.024444,7.966389,no
 308685,IT-0049,small_airport,Aviosuperficie CHAVEZ-MARINI,46.134167,8.306333,no
 308686,IT-0050,small_airport,Cossato,45.65333333,8.204444444,no
@@ -33256,11 +33256,11 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 308692,IT-0056,small_airport,Aviosuperficie Alpi Marittime,44.391111,7.725556,no
 308693,IT-0057,small_airport,Aviosuperficie Piovera,44.935833,8.749333,no
 308694,IT-0058,small_airport,Campo di Volo Prealpi-Musin_,45.123091,7.524862,no
-308695,IT-0059,small_airport,Aviosuperficie Citt_ di Tortona,44.938436,8.865881,no
-308698,IT-0062,small_airport,Campo di Volo Bosio Guido,44.434194,7.632258,no
+308695,IT-0059,small_airport,"Aviosuperficie ""Citt_ di Tortona""",44.938436,8.865881,no
+308698,IT-0062,small_airport,"Campo di Volo ""Bosio Guido""",44.434194,7.632258,no
 308699,IT-0063,small_airport,Campo di Volo Country Fly,44.503056,7.821667,no
 308700,IT-0064,small_airport,Campo di volo Ploia,44.884167,8.780833,no
-308701,IT-0065,small_airport,Campo volo Il Laghetto,44.777333,8.1295,no
+308701,IT-0065,small_airport,"Campo volo ""Il Laghetto""",44.777333,8.1295,no
 308702,IT-0066,small_airport,Campo Volo Angela e Sara,45.163889,8.123333,no
 308703,IT-0067,small_airport,Altiporto Chamois,45.833793,7.618504,no
 308704,IT-0068,small_airport,Campo di Volo Chatelair,45.74,7.480556,no
@@ -33275,7 +33275,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 315440,IT-0079,small_airport,Aviosuperficie La Speziana,45.12847,9.36284,no
 315441,IT-0080,small_airport,Campo di Volo Mazarack,45.639444,12.943611,no
 315442,IT-0081,small_airport,Aviosuperficie Pradelle,45.49278,10.119883,no
-315443,IT-0082,small_airport,Aviosuperficie Madonna di Loreto,43.43913,13.57054,no
+315443,IT-0082,small_airport,"Aviosuperficie ""Madonna di Loreto""",43.43913,13.57054,no
 315460,IT-0083,small_airport,La Tomasina,45.3283659,8.7974125,no
 315492,IT-0084,small_airport,Campo di Volo Verv_,46.313801,11.111898,no
 315520,IT-0085,small_airport,Campo di Volo Samolaco,46.23515,9.43206,no
@@ -33286,63 +33286,63 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 315663,IT-0090,small_airport,Aviosuperfice Mensanello,43.372874,11.120749,no
 315769,IT-0091,small_airport,Termon Altiport,46.270833,11.025833,no
 315771,IT-0092,small_airport,Centro Volo Campania,40.9515272,14.41188,no
-315859,IT-0093,small_airport,Campo di Volo Beppe Rascaglia,38.515556,15.942222,no
+315859,IT-0093,small_airport,"Campo di Volo ""Beppe Rascaglia""",38.515556,15.942222,no
 315862,IT-0094,small_airport,Aviosuperficie Macr_,40.054607,18.214738,no
 315864,IT-0095,small_airport,Campo di Volo Umberto Nobile,41.235278,13.820556,no
 315865,IT-0096,small_airport,Aviosuperficie Sabaudia,41.333611,13.021389,no
-315866,IT-0097,small_airport,Campo di Volo Fly Club,41.10457,14.45698,no
+315866,IT-0097,small_airport,"Campo di Volo ""Fly Club""",41.10457,14.45698,no
 315867,IT-0098,small_airport,Aviosuperficie Condor,41.415,12.979444,no
-315869,IT-0099,small_airport,Aviosuperficie Tuscania,42.410446,11.898665,no
+315869,IT-0099,small_airport,"Aviosuperficie ""Tuscania""",42.410446,11.898665,no
 315871,IT-0100,small_airport,Aviosuperficie Alisoriano,42.433658,12.292147,no
-315872,IT-0101,small_airport,Campo di Volo Aerolight Marche,43.512778,13.193611,no
+315872,IT-0101,small_airport,"Campo di Volo ""Aerolight Marche""",43.512778,13.193611,no
 315873,IT-0102,small_airport,Campo di Volo Montefano,43.42075,13.39928,no
-315874,IT-0103,small_airport,Aviosuperficie Ali di Classe,44.322803,12.308312,no
+315874,IT-0103,small_airport,"Aviosuperficie ""Ali di Classe""",44.322803,12.308312,no
 315875,IT-0104,small_airport,Campo di Volo Villafranca,44.291111,12.026111,no
-315876,IT-0105,small_airport,Aviosuperficie LYRA 34,44.500278,11.944444,no
-315877,IT-0106,small_airport,Campo di Volo Ali Filanti,44.582222,11.923056,no
-315878,IT-0107,small_airport,Campo di Volo Icaro Village,44.842996,11.485068,no
-315879,IT-0108,small_airport,Campo di Volo Le Merline,44.97287,9.479142,no
-315880,IT-0109,small_airport,Campo di Volo Arbuschi,45.05,9.1625,no
+315876,IT-0105,small_airport,"Aviosuperficie ""LYRA 34""",44.500278,11.944444,no
+315877,IT-0106,small_airport,"Campo di Volo ""Ali Filanti""",44.582222,11.923056,no
+315878,IT-0107,small_airport,"Campo di Volo ""Icaro Village""",44.842996,11.485068,no
+315879,IT-0108,small_airport,"Campo di Volo ""Le Merline""",44.97287,9.479142,no
+315880,IT-0109,small_airport,"Campo di Volo ""Arbuschi""",45.05,9.1625,no
 315881,IT-0110,small_airport,Aviosuperficie Dovera,45.380525,9.534974,no
 315882,IT-0111,small_airport,Aviosuperficie dei Navigli,45.414722,8.895,no
-315883,IT-0112,small_airport,Campo di Volo Volo Club Milano,45.449444,8.998333,no
+315883,IT-0112,small_airport,"Campo di Volo ""Volo Club Milano""",45.449444,8.998333,no
 315884,IT-0113,small_airport,Aviosuperficie Alicaorle,45.611944,12.814722,no
 315885,IT-0114,small_airport,Aviosuperficie Zampieri,46.404444,12.8825,no
 315888,IT-0115,small_airport,Sterzing / Vipiteno,46.88422,11.44214,no
-315890,IT-0116,small_airport,Aviosuperficie Passo del Tonale,46.264722,10.599444,no
-315903,IT-0117,small_airport,Aviosuperficie Il Nido delle Acquile,40.93769,16.497,no
+315890,IT-0116,small_airport,"Aviosuperficie ""Passo del Tonale""",46.264722,10.599444,no
+315903,IT-0117,small_airport,"Aviosuperficie ""Il Nido delle Acquile""",40.93769,16.497,no
 315914,IT-0118,small_airport,Aviosuperficie Mezzana Bigli,45.065409,8.835176,no
-315970,IT-0119,small_airport,Aviosuperficie Sa Doda,39.361731,8.868309,no
+315970,IT-0119,small_airport,"Aviosuperficie ""Sa Doda""",39.361731,8.868309,no
 315971,IT-0120,small_airport,Campo di Volo Sardegna,39.621944,9.101944,no
-315973,IT-0121,small_airport,Campo di Volo Oasi da Peppe,40.4525,15.001389,no
+315973,IT-0121,small_airport,"Campo di Volo ""Oasi da Peppe""",40.4525,15.001389,no
 315974,IT-0122,small_airport,Aviosuperficie Aerotre,40.443303,17.630114,no
-315975,IT-0123,small_airport,Campo di Volo Il Volo,40.421944,8.686667,no
+315975,IT-0123,small_airport,"Campo di Volo ""Il Volo""",40.421944,8.686667,no
 315977,IT-0124,small_airport,La Quercia,40.962982,16.6331,no
 315978,IT-0125,small_airport,Campo di Volo Platamona,40.813333,8.470278,no
-315979,IT-0126,small_airport,Aviosuperficie Delta Club Napoli,41.065278,13.9625,no
+315979,IT-0126,small_airport,"Aviosuperficie ""Delta Club Napoli""",41.065278,13.9625,no
 315980,IT-0127,small_airport,Pegaso Club 2000,41.35775,13.149013,no
 315985,IT-0128,small_airport,Campo di Volo Fiorano Wings,45.11933,9.705951,no
 315987,IT-0129,small_airport,Aviosuperficie Caposile,45.564444,12.574722,no
-315988,IT-0130,small_airport,Aviosuperficie Aquile Randagie,45.165668,11.035167,no
+315988,IT-0130,small_airport,"Aviosuperficie ""Aquile Randagie""",45.165668,11.035167,no
 315996,IT-0131,small_airport,Aviosuperficie Club Chiusdino,43.191012,11.143076,no
-316064,IT-0132,small_airport,CdV 38 N Fly Zone,37.9458,15.8836,no
+316064,IT-0132,small_airport,"CdV ""38 N Fly Zone""",37.9458,15.8836,no
 316067,IT-0133,small_airport,CdV Ass.Sp. Parvolo,45.815556,12.752222,no
 316151,IT-0134,small_airport,Campo di Volo Careas,45.50668,9.66814,no
-316152,IT-0135,small_airport,Campo di Volo La Zappaglia,45.326667,10.378056,no
+316152,IT-0135,small_airport,"Campo di Volo ""La Zappaglia""",45.326667,10.378056,no
 316153,IT-0136,small_airport,Aviosuperficie Vigarolo,45.2175,9.466667,no
-316155,IT-0137,small_airport,Campo di Volo La Fenice,44.999827,10.71339,no
-316156,IT-0138,small_airport,Campo di Volo Air Folies,45.53297,8.90103,no
+316155,IT-0137,small_airport,"Campo di Volo ""La Fenice""",44.999827,10.71339,no
+316156,IT-0138,small_airport,"Campo di Volo ""Air Folies""",45.53297,8.90103,no
 316157,IT-0139,small_airport,Aviosuperficie Airone,45.588056,9.003751,no
 316158,IT-0140,small_airport,Aviosuperficie Pravisdomini,45.824167,12.685278,no
-316159,IT-0141,small_airport,Campo di Volo Ali Venete,45.666667,11.808333,no
-316160,IT-0142,small_airport,Campo di Volo Il Pioniero,45.083889,11.661667,no
-316161,IT-0143,small_airport,Aviosuperficie San Giuseppe,45.85649,12.06555,no
-316162,IT-0144,small_airport,Aviosuperfice Alla Colombara,45.755,11.694167,no
-316199,IT-0145,small_airport,CdV Il Fantasma Arcole,45.36,11.294444,no
+316159,IT-0141,small_airport,"Campo di Volo ""Ali Venete""",45.666667,11.808333,no
+316160,IT-0142,small_airport,"Campo di Volo ""Il Pioniero""",45.083889,11.661667,no
+316161,IT-0143,small_airport,"Aviosuperficie ""San Giuseppe""",45.85649,12.06555,no
+316162,IT-0144,small_airport,"Aviosuperfice ""Alla Colombara""",45.755,11.694167,no
+316199,IT-0145,small_airport,"CdV ""Il Fantasma"" Arcole",45.36,11.294444,no
 316200,IT-0146,small_airport,A/S C_ del Conte,44.868889,9.938057,no
 316203,IT-0147,small_airport,Campo di Volo Borgotaro Albareto,44.464558,9.715806,no
-316204,IT-0148,small_airport,Campo di Volo Flying Buttero,42.517352,11.319137,no
-316436,IT-0149,small_airport,Campo di Volo Le Tartarughe Volanti,45.609722,9.486667,no
+316204,IT-0148,small_airport,"Campo di Volo ""Flying Buttero""",42.517352,11.319137,no
+316436,IT-0149,small_airport,"Campo di Volo ""Le Tartarughe Volanti""",45.609722,9.486667,no
 316612,IT-0150,small_airport,Aviosuperficie F. Baracca,45.838889,12.193889,no
 316747,IT-0151,small_airport,Pegasus Flying Club,45.669654,13.0394509,no
 316750,IT-0152,small_airport,Aviosuperficie Olivola,41.17751,14.74734,no
@@ -33350,7 +33350,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 316752,IT-0154,small_airport,Aviosuperficie Alituscia,42.229167,12.120833,no
 316753,IT-0155,small_airport,Campo di Volo Acquasparta,42.6841667,12.5527778,no
 316798,IT-0156,small_airport,Aviosuperficie Terra del Sole,42.775534,11.157271,no
-316802,IT-0157,small_airport,Campo di Volo Ali del Po,44.97213,10.293684,no
+316802,IT-0157,small_airport,"Campo di Volo ""Ali del Po""",44.97213,10.293684,no
 316923,IT-0158,small_airport,Campo di Volo Aerdomus,41.9419444,12.1402778,no
 316924,IT-0159,small_airport,Campo di Volo Ondalba,44.776117,7.879334,no
 316926,IT-0160,small_airport,Campo di Volo Castel Caladan,45.461305,9.576677,no
@@ -33361,8 +33361,8 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 316984,IT-0165,small_airport,Aviosuperficie Renzo Storai,43.96583,11.458056,no
 316985,IT-0166,small_airport,Campo di Volo Alicocco,41.655,13.226389,no
 316986,IT-0167,small_airport,Aviosuperficie Ceresara,45.263695,10.582549,no
-316987,IT-0168,small_airport,Campo di Volo Cab Club,45.057833,8.066817,no
-316997,IT-0169,small_airport,Campo di Volo Flying Tigers,45.441708,7.935971,no
+316987,IT-0168,small_airport,"Campo di Volo ""Cab Club""",45.057833,8.066817,no
+316997,IT-0169,small_airport,"Campo di Volo ""Flying Tigers""",45.441708,7.935971,no
 316999,IT-0170,small_airport,Aviosuperficie Kong,45.76161,9.44497,no
 317000,IT-0171,small_airport,Aviosuperficie Piancada,45.76417,13.07304,no
 317001,IT-0172,small_airport,Aviosuperficie Stella,44.95094,11.62722,no
@@ -33373,9 +33373,9 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 317006,IT-0177,small_airport,Aviosuperficie Enrico Mattei,40.431896,16.5538,no
 317007,IT-0178,small_airport,Campo di Volo Pisticci,40.39953,16.63706,no
 317242,IT-0179,small_airport,Aviosuperficie Sibari Fly,39.757418,16.435418,no
-317363,IT-0180,small_airport,Aviosuperficie Il Gabbiano,43.051711,10.552012,no
+317363,IT-0180,small_airport,"Aviosuperficie ""Il Gabbiano""",43.051711,10.552012,no
 317365,IT-0181,small_airport,Aviosuperficie Aliscarlino,42.912222,10.816667,no
-317368,IT-0182,small_airport,Campo di Volo San Felice,44.8325,11.120833,no
+317368,IT-0182,small_airport,"Campo di Volo ""San Felice""",44.8325,11.120833,no
 317371,IT-0183,small_airport,Aviosuperficie Molise Ultravolo,41.97547,15.02005,no
 317372,IT-0184,small_airport,Campo di Volo Arcora,41.94428,15.04761,no
 317373,IT-0185,small_airport,Aviosuperficie Pantano,40.56167,15.7599,no
@@ -33386,35 +33386,35 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 317499,IT-0190,small_airport,Aviosuperficie Baialupo,45.5529,9.50567,no
 317563,IT-0191,small_airport,Campo di Volo L'ELIKA,44.88293,7.56105,no
 317569,IT-0192,small_airport,Campo di Volo Le Streghe,45.395556,8.706389,no
-317571,IT-0193,small_airport,Campo di Volo Lucchina Fly Club,45.3236111,8.0008333,no
-317606,IT-0194,small_airport,Aviosuperficie Santa Lucia,45.484167,9.9525,no
+317571,IT-0193,small_airport,"Campo di Volo Lucchina Fly Club""",45.3236111,8.0008333,no
+317606,IT-0194,small_airport,"Aviosuperficie ""Santa Lucia""",45.484167,9.9525,no
 317609,IT-0195,small_airport,Aviosuperficie Corry's,45.519444,10.38,no
-317612,IT-0196,small_airport,Aviosuperficie Natale/Battistoni,45.334722,8.824722,no
-317624,IT-0197,small_airport,Aviosuperficie Il Borro,43.536111,11.705,no
-317625,IT-0198,small_airport,Aviosuperficie Reno Air Club,44.61269,11.32424,no
+317612,IT-0196,small_airport,"Aviosuperficie ""Natale/Battistoni""",45.334722,8.824722,no
+317624,IT-0197,small_airport,"Aviosuperficie ""Il Borro""",43.536111,11.705,no
+317625,IT-0198,small_airport,"Aviosuperficie ""Reno Air Club""",44.61269,11.32424,no
 317626,IT-0199,small_airport,Aviosuperficie di Montegaldella,45.444444,11.651111,no
 317627,IT-0200,small_airport,Aviosuperficie Sassuolo,44.571667,10.78,no
 317633,IT-0201,small_airport,Aviosuperficie del Sole,40.624425,14.845842,no
-317639,IT-0202,small_airport,Venaria Reale / 34_ Gruppo Squadroni AVES Toro  [MIL],45.133421,7.608827,no
+317639,IT-0202,small_airport,"Venaria Reale / 34_ Gruppo Squadroni AVES ""Toro""  [MIL]",45.133421,7.608827,no
 317649,IT-0203,small_airport,Aviosuperficie Rovigo,45.031167,11.823667,no
 317652,IT-0204,small_airport,Campo di Volo Agroturismo Sasso d'Oro,46.181389,12.8225,no
-317666,IT-0205,small_airport,Aviosuperficie Cap. Pilota Saverio Tedesco,41.635,15.761667,no
-317667,IT-0206,small_airport,Aviosuperficie Fondone,40.355883,18.232425,no
+317666,IT-0205,small_airport,"Aviosuperficie ""Cap. Pilota Saverio Tedesco""",41.635,15.761667,no
+317667,IT-0206,small_airport,"Aviosuperficie ""Fondone""",40.355883,18.232425,no
 317719,IT-0207,small_airport,Aviosuperficie Pantalla,42.871167,12.383417,no
 317720,IT-0208,small_airport,Aviosuperficie Maccagno,44.42381,7.45917,no
 317722,IT-0209,small_airport,Aviosuperficie I Pinguini,43.87137,10.94651,no
 317728,IT-0210,small_airport,Aviosuperficie Pegaso Flying Club,41.541847,13.370451,no
 317746,IT-0211,small_airport,Al Casale,45.98475,12.92438,no
-317785,IT-0212,small_airport,Campo di Volo Air Patria,40.926943,14.061944,no
+317785,IT-0212,small_airport,"Campo di Volo ""Air Patria""",40.926943,14.061944,no
 317786,IT-0213,small_airport,Aviosuperficie Aliquirra,39.678,9.46299,no
-317787,IT-0214,small_airport,Campo di Volo Peter Pan,42.97179,12.37247,no
-317788,IT-0215,small_airport,Campo di Volo Aligubbio,43.3173,12.5731,no
+317787,IT-0214,small_airport,"Campo di Volo ""Peter Pan""",42.97179,12.37247,no
+317788,IT-0215,small_airport,"Campo di Volo ""Aligubbio""",43.3173,12.5731,no
 317814,IT-0216,small_airport,Aviosuperficie L'Aquila,42.300878,13.517175,no
-317842,IT-0217,small_airport,Campo di Volo VolAvisio,46.27888,11.44837,no
+317842,IT-0217,small_airport,"Campo di Volo ""VolAvisio""",46.27888,11.44837,no
 317843,IT-0218,small_airport,Volopuro,45.56399,8.54139,no
 317853,IT-0219,small_airport,Campo di Volo Tuscany Flight,43.695333,10.800533,no
 317854,IT-0220,small_airport,Aviosuperficie Avola-Gallina,36.945287,15.170774,no
-317888,IT-0221,small_airport,Aviosuperficie Avioclub Montagnana,45.24438,11.42567,no
+317888,IT-0221,small_airport,"Aviosuperficie ""Avioclub Montagnana""",45.24438,11.42567,no
 317889,IT-0222,small_airport,Aviosuperficie Divinangelo,41.471944,13.023611,no
 317906,IT-0223,small_airport,Campo di Volo K-Fly,41.91128,15.81102,no
 317907,IT-0224,small_airport,Aviosuperficie Monticchio,40.3775,17.385556,no
@@ -33429,82 +33429,82 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 318147,IT-0234,small_airport,Campo di Volo Valdichiana,43.214021,11.823111,no
 318148,IT-0235,small_airport,Campo di Volo Ciannocio,43.122253,11.920488,no
 318222,IT-0236,small_airport,Campo di Volo Policastro,40.114874,15.495315,no
-318284,IT-0238,small_airport,Campo di Volo Delta Condor,43.869653,10.301777,no
+318284,IT-0238,small_airport,"Campo di Volo ""Delta Condor""",43.869653,10.301777,no
 318285,IT-0239,small_airport,Aviosuperficie Esperti,40.480095,17.885069,no
 318909,IT-0240,small_airport,Campo di Volo Monreale,39.583099,8.773265,no
 318911,IT-0241,small_airport,Aviosuperficie Agrigento,37.247222,13.654722,no
 318914,IT-0242,small_airport,Aviosuperficie Corte,40.10667,18.25833,no
-318917,IT-0243,small_airport,Campo di Volo Fly Sabina,42.1166667,12.7080556,no
+318917,IT-0243,small_airport,"Campo di Volo ""Fly Sabina""",42.1166667,12.7080556,no
 324617,IT-0244,small_airport,Trike Team Cormorano,37.0994444,14.17,no
-318979,IT-0245,small_airport,Campo di Volo Val Vibrata,42.809474,13.847142,no
+318979,IT-0245,small_airport,"Campo di Volo ""Val Vibrata""",42.809474,13.847142,no
 319113,IT-0246,small_airport,Campo di Volo AliVara,44.227697,9.720077,no
-319114,IT-0247,small_airport,Aviosuperficie Ali sul Castello,41.061667,16.282222,no
-319125,IT-0248,small_airport,Agriturismo Podere Santa Apollonia,43.295278,11.907222,no
-319141,IT-0249,small_airport,Campo di Volo Willy il Coyote,44.772222,10.833333,no
-319145,IT-0250,small_airport,Campo di Volo Valerio Glorialanza,44.376111,9.290278,no
-319167,IT-0251,small_airport,Campo di Volo San Dalmazio,44.4125,10.843611,no
-319170,IT-0252,small_airport,Campo di Volo Delta Culture Club,44.571111,11.451667,no
+319114,IT-0247,small_airport,"Aviosuperficie ""Ali sul Castello""",41.061667,16.282222,no
+319125,IT-0248,small_airport,"Agriturismo ""Podere Santa Apollonia""",43.295278,11.907222,no
+319141,IT-0249,small_airport,"Campo di Volo ""Willy il Coyote""",44.772222,10.833333,no
+319145,IT-0250,small_airport,"Campo di Volo ""Valerio Glorialanza""",44.376111,9.290278,no
+319167,IT-0251,small_airport,"Campo di Volo ""San Dalmazio""",44.4125,10.843611,no
+319170,IT-0252,small_airport,"Campo di Volo ""Delta Culture Club""",44.571111,11.451667,no
 319186,IT-0253,small_airport,Aviosuperficie Castellazzo,44.6833333,10.7397222,no
 319211,IT-0254,small_airport,Aviosuperficie Cassola,45.742222,11.807222,no
 319213,IT-0255,small_airport,Aviosuperficie Molinella,44.5982,11.656286,no
 319216,IT-0256,small_airport,Aviosuperficie di Rubbiano,44.671947,10.060862,no
-319219,IT-0257,small_airport,Aviosuperficie Colli Euganei,45.203258,11.793658,no
+319219,IT-0257,small_airport,"Aviosuperficie ""Colli Euganei""",45.203258,11.793658,no
 319288,IT-0258,small_airport,Campo di Volo Settecrociari,44.13595,12.18976,no
 319291,IT-0259,small_airport,Campo di Volo Campogalliano,44.70355,10.85416,no
 319296,IT-0260,small_airport,Obiettivo Volare Aeroclub,44.888828,10.15991,no
-319310,IT-0261,small_airport,Private Ultralight Field Achille,43.99883,12.10792,no
+319310,IT-0261,small_airport,"Private Ultralight Field ""Achille""",43.99883,12.10792,no
 319312,IT-0262,small_airport,Campo di Volo Empoli,43.72512,10.98294,no
 319316,IT-0263,small_airport,Campo di Volo Tignes,46.15401,12.34751,no
 319326,IT-0264,small_airport,Aviosuperficie Grumento Nova,40.27009,15.91363,no
-319327,IT-0265,small_airport,Aviosuperfice Torre Sant'Andrea,40.24721,18.43611,no
+319327,IT-0265,small_airport,"Aviosuperfice ""Torre Sant'Andrea""",40.24721,18.43611,no
 319330,IT-0266,small_airport,Aviosuperficie Valicella,42.21873,12.24846,no
 319360,IT-0267,small_airport,Aviosuperficie F. Rossi,43.34,12.826944,no
-319363,IT-0268,small_airport,Campo di Volo Banda Bassotti,44.924444,11.05,no
-319388,IT-0269,small_airport,Campo di Volo Rovasenda 2000,45.5444444,8.2791667,no
-319398,IT-0270,small_airport,Campo di Volo Al Canale,40.8125,17.2330556,no
+319363,IT-0268,small_airport,"Campo di Volo ""Banda Bassotti""",44.924444,11.05,no
+319388,IT-0269,small_airport,"Campo di Volo ""Rovasenda 2000""",45.5444444,8.2791667,no
+319398,IT-0270,small_airport,"Campo di Volo ""Al Canale""",40.8125,17.2330556,no
 319399,IT-0271,small_airport,Campo di Volo Agnedo,46.0447222,11.5419444,no
-319400,IT-0272,small_airport,[Duplicate] Aviosuperficie Il Nido delle Aquile,40.93751,16.49695,no
+319400,IT-0272,small_airport,"[Duplicate] Aviosuperficie ""Il Nido delle Aquile""",40.93751,16.49695,no
 319414,IT-0273,small_airport,Campo di Volo Luciano Borgonovi,45.18698,9.04292,no
-319415,IT-0274,small_airport,Aviosuperficie Villa Selva Air Park,42.79277,13.75146,no
+319415,IT-0274,small_airport,"Aviosuperficie ""Villa Selva Air Park""",42.79277,13.75146,no
 319421,IT-0275,small_airport,Campo di Volo Arcobaleno,44.4969444,11.2436111,no
-319422,IT-0276,small_airport,Campo di Volo Ali del Montello,45.76157,12.16361,no
+319422,IT-0276,small_airport,"Campo di Volo ""Ali del Montello""",45.76157,12.16361,no
 319424,IT-0277,small_airport,Aviosuperficie La Selva,41.155556,14.21,no
 319429,IT-0278,small_airport,Aviosuperficie Falcone,41.101343,15.871805,no
 319431,IT-0279,small_airport,Aviosuperficie Celano,42.05167,13.55722,no
-319435,IT-0280,small_airport,Aviosuperficie Guido Paci,43.102691,13.557411,no
-319437,IT-0281,small_airport,Campo di Volo Piana 5 Miglia,41.879201,14.011133,no
+319435,IT-0280,small_airport,"Aviosuperficie ""Guido Paci""",43.102691,13.557411,no
+319437,IT-0281,small_airport,"Campo di Volo ""Piana 5 Miglia""",41.879201,14.011133,no
 319439,IT-0282,small_airport,Campo di Volo Collerotondo,42.289182,13.745423,no
 319442,IT-0283,small_airport,Aviosuperficie Carocci,42.247516,12.308311,no
 319444,IT-0284,small_airport,Campo di Volo Pegaso,45.318,12.05065,no
-319450,IT-0285,small_airport,Aviosuperficie Parco Livenza,45.74,12.70393,no
-319451,IT-0286,small_airport,Aviosuperficie Skydive Venice,45.700009,12.763909,no
-319452,IT-0287,small_airport,Campo di Volo Banana,45.59759,12.303003,no
-319459,IT-0290,small_airport,Aviosuperficie Il Pratone,42.093703,13.042332,no
-319462,IT-0291,small_airport,Campo di Volo Sky Ufita,41.046165,15.121532,no
-319481,IT-0292,small_airport,Campo di Volo Blue Devil Centre,45.392554,10.128472,no
-319482,IT-0293,small_airport,Campo di Volo Le Panizze,45.419094,10.557888,no
+319450,IT-0285,small_airport,"Aviosuperficie ""Parco Livenza""",45.74,12.70393,no
+319451,IT-0286,small_airport,"Aviosuperficie ""Skydive Venice""",45.700009,12.763909,no
+319452,IT-0287,small_airport,"Campo di Volo ""Banana""",45.59759,12.303003,no
+319459,IT-0290,small_airport,"Aviosuperficie ""Il Pratone""",42.093703,13.042332,no
+319462,IT-0291,small_airport,"Campo di Volo ""Sky Ufita""",41.046165,15.121532,no
+319481,IT-0292,small_airport,"Campo di Volo ""Blue Devil Centre""",45.392554,10.128472,no
+319482,IT-0293,small_airport,"Campo di Volo ""Le Panizze""",45.419094,10.557888,no
 319484,IT-0294,small_airport,Aviosuperficie di Lonato,45.394566,10.566931,no
-319489,IT-0297,small_airport,Campo di Volo Ali della Libert_,44.516167,11.100083,no
+319489,IT-0297,small_airport,"Campo di Volo ""Ali della Libert_""",44.516167,11.100083,no
 319490,IT-0298,small_airport,Campo di Volo Phoenix,44.74714,11.34161,no
-319491,IT-0299,small_airport,Campo di Volo Creva Air Club,44.737333,11.183633,no
-319492,IT-0300,small_airport,Campo di Volo Punto Volo,45.437987,9.60738,no
+319491,IT-0299,small_airport,"Campo di Volo ""Creva Air Club""",44.737333,11.183633,no
+319492,IT-0300,small_airport,"Campo di Volo ""Punto Volo""",45.437987,9.60738,no
 319496,IT-0301,small_airport,Agriturismo Turus,45.923709,13.541016,no
 319499,IT-0302,small_airport,Aviosuperficie AS77,45.95995,13.20564,no
-319500,IT-0303,small_airport,Campo di Volo La Fattoria,45.2916667,12.0675667,no
-319502,IT-0304,small_airport,Aviosuperficie Base Bravo,45.392864,11.692645,no
-319504,IT-0305,small_airport,Campo di Volo Da Domenico,45.232351,11.797808,no
+319500,IT-0303,small_airport,"Campo di Volo ""La Fattoria""",45.2916667,12.0675667,no
+319502,IT-0304,small_airport,"Aviosuperficie ""Base Bravo""",45.392864,11.692645,no
+319504,IT-0305,small_airport,"Campo di Volo ""Da Domenico""",45.232351,11.797808,no
 319506,IT-0306,small_airport,Campo di Volo Padova Sud,45.324676,11.872852,no
-319508,IT-0307,small_airport,Aviosuperficie Dominio di Bagnoli,45.188628,11.858303,no
-319509,IT-0308,small_airport,Campo di Volo Le Risare,45.574906,11.84464,no
-319511,IT-0309,small_airport,Aviosuperficie Avioclub Alanno,42.31458,14.000913,no
-319513,IT-0310,small_airport,Campo di Volo Avioclub Elice,42.490357,13.997202,no
+319508,IT-0307,small_airport,"Aviosuperficie ""Dominio di Bagnoli""",45.188628,11.858303,no
+319509,IT-0308,small_airport,"Campo di Volo ""Le Risare""",45.574906,11.84464,no
+319511,IT-0309,small_airport,"Aviosuperficie ""Avioclub Alanno""",42.31458,14.000913,no
+319513,IT-0310,small_airport,"Campo di Volo ""Avioclub Elice""",42.490357,13.997202,no
 319517,IT-0311,small_airport,Campo di Volo Bonsciano,43.355854,12.193534,no
 319519,IT-0312,small_airport,Campo di Volo San Terenziano,42.85723,12.473179,no
 319522,IT-0313,small_airport,Campo di Volo Santa Maria Rossa,43.023963,12.387515,no
 319524,IT-0314,small_airport,Campo di Volo Montefalco,42.885358,12.693324,no
 319527,IT-0315,small_airport,Campo di Volo Molinella,43.121511,12.20585,no
 319557,IT-0316,small_airport,Campo di Volo Palosco,45.600679,9.821166,no
-319559,IT-0317,small_airport,Campo di Volo Fant Air Club,46.085023,12.068712,no
+319559,IT-0317,small_airport,"Campo di Volo ""Fant Air Club""",46.085023,12.068712,no
 319561,IT-0318,small_airport,Campo di Volo Sedico,46.091613,12.089596,no
 319566,IT-0319,small_airport,Campo di Volo San Paolo,45.377553,10.037612,no
 319593,IT-0320,small_airport,Campo di Volo AliMatese,41.323638,14.363949,no
@@ -33515,7 +33515,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 319625,IT-0325,small_airport,Aviosuperficie Citt_ di Curtatone,45.101333,10.75005,no
 319628,IT-0327,small_airport,Campo di Volo Mantova Nord,45.172182,10.858224,no
 319630,IT-0328,small_airport,Campo di Volo Roverbella,45.239484,10.889615,no
-319638,IT-0330,small_airport,Campo di Volo Condor Men,43.224706,13.329554,no
+319638,IT-0330,small_airport,"Campo di Volo ""Condor Men""",43.224706,13.329554,no
 319641,IT-0331,small_airport,Aviosuperficie Santa Anna,43.366053,13.457496,no
 319643,IT-0332,small_airport,Campo di Volo Ali del Chienti,43.260263,13.518618,no
 319645,IT-0333,small_airport,Campo di Volo AliPuglia,40.474421,17.609926,no
@@ -33523,9 +33523,9 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 319648,IT-0335,small_airport,Base Aerea Molise,41.474462,14.537457,no
 319656,IT-0336,small_airport,Aviosuperficie Loelle,40.5701667,9.3173667,no
 319659,IT-0337,small_airport,Campo di Volo Valledoria,40.929768,8.812227,no
-319663,IT-0338,small_airport,Campo di Volo Pista Vasa,41.046634,8.997749,no
-319670,IT-0339,small_airport,Campo di Volo Gli Aironi,44.462771,11.789613,no
-319672,IT-0340,small_airport,Campo di Volo Delta club Conselice,44.541928,11.792177,no
+319663,IT-0338,small_airport,"Campo di Volo ""Pista Vasa""",41.046634,8.997749,no
+319670,IT-0339,small_airport,"Campo di Volo ""Gli Aironi""",44.462771,11.789613,no
+319672,IT-0340,small_airport,"Campo di Volo ""Delta club Conselice""",44.541928,11.792177,no
 319682,IT-0341,small_airport,Campo di Volo Oasi,45.696556,8.826948,no
 319684,IT-0342,small_airport,Aviosuperficie Umilt_,42.192111,12.331621,no
 319686,IT-0343,small_airport,Aviosuperficie Santa Bruna,42.382873,12.344158,no
@@ -33534,14 +33534,14 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 319692,IT-0346,small_airport,Aviosuperficie San Teodoro,40.802484,9.65839,no
 319716,IT-0347,small_airport,Campo di Volo Rovellasca,45.6758333,9.0644444,no
 319727,IT-0349,small_airport,Campo di Volo Verginese,44.690633,11.762535,no
-319728,IT-0350,small_airport,Campo di Volo Fly and Go,41.344754,15.526474,no
+319728,IT-0350,small_airport,"Campo di Volo ""Fly and Go""",41.344754,15.526474,no
 319730,IT-0351,small_airport,Campo di Volo Vivoli,42.992253,10.806534,no
 319736,IT-0352,small_airport,Aviosuperficie Aviodelta,44.706594,10.249517,no
 319738,IT-0353,small_airport,Campo di Volo Campore,44.827864,10.010782,no
 319741,IT-0354,small_airport,Campo di Volo La Torretta,44.99341,10.060065,no
 319743,IT-0355,small_airport,Aviosuperficie Vallesanta,42.427317,12.805221,no
-319745,IT-0356,small_airport,Aviosuperficie Giardini di Corcolle,41.900476,12.741902,no
-319752,IT-0357,small_airport,Campo di Volo Air Ardara,40.625979,8.868129,no
+319745,IT-0356,small_airport,"Aviosuperficie ""Giardini di Corcolle""",41.900476,12.741902,no
+319752,IT-0357,small_airport,"Campo di Volo ""Air Ardara""",40.625979,8.868129,no
 319757,IT-0358,small_airport,Aviosuperficie Cornegliano,45.288893,9.491832,no
 319758,IT-0359,small_airport,Aviosuperficie Massalengo,45.275425,9.482934,no
 319760,IT-0360,small_airport,Campo di Volo Mezzana Casati,45.098258,9.735884,no
@@ -33552,65 +33552,65 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 319810,IT-0365,small_airport,Aviosuperficie Chiusa-Zerfaliu,39.989504,8.723266,no
 319837,IT-0366,small_airport,Aviosuperficie Bedizzole,45.51851,10.449577,no
 319839,IT-0367,small_airport,Aviosuperficie Bosco di Mezzo,37.1523,14.59928,no
-319842,IT-0368,small_airport,Aviosuperficie Amici del Volo,41.676997,13.74285,no
-319854,IT-0369,small_airport,Campo di Volo Ass.Sp.Volo Leggero,45.261776,11.192901,no
+319842,IT-0368,small_airport,"Aviosuperficie ""Amici del Volo""",41.676997,13.74285,no
+319854,IT-0369,small_airport,"Campo di Volo ""Ass.Sp.Volo Leggero""",45.261776,11.192901,no
 319917,IT-0370,small_airport,Aviosuperficie Pica,42.696389,13.917222,no
-319924,IT-0371,small_airport,Campo di Volo Ca' Quinta di Sarego,45.432833,11.383333,no
-319926,IT-0372,small_airport,Aviosuperficie San Mauro,46.068333,13.366883,no
+319924,IT-0371,small_airport,"Campo di Volo ""Ca' Quinta di Sarego""",45.432833,11.383333,no
+319926,IT-0372,small_airport,"Aviosuperficie ""San Mauro""",46.068333,13.366883,no
 319952,IT-0373,small_airport,Aviosuperficie Serristori,43.332147,11.858067,no
-319954,IT-0374,small_airport,Campo di Volo Asolo Flight,45.758333,11.896111,no
-319956,IT-0375,small_airport,Campo di Volo San Marco Volo,45.771043,11.996559,no
+319954,IT-0374,small_airport,"Campo di Volo ""Asolo Flight""",45.758333,11.896111,no
+319956,IT-0375,small_airport,"Campo di Volo ""San Marco Volo""",45.771043,11.996559,no
 319958,IT-0376,small_airport,Aviosuperficie Montebelluna,45.748913,12.056902,no
-319975,IT-0377,small_airport,Campo di Volo Club Deltasport,44.653559,10.991591,no
+319975,IT-0377,small_airport,"Campo di Volo ""Club Deltasport""",44.653559,10.991591,no
 319977,IT-0378,small_airport,Campo di Volo Ala Jonica,37.9371,15.320702,no
 319978,IT-0379,small_airport,Aviosuperficie Rosangeles,45.362833,9.016683,no
 319980,IT-0380,small_airport,Campo di Volo A.S. Ulcor,39.9787,8.6792,no
 319981,IT-0381,small_airport,Campo di Volo Vallermosa,39.3561,8.7919,no
 319983,IT-0382,small_airport,Campo di Volo Gemini,39.8948,18.1904,no
 319993,IT-0383,small_airport,Campo di Volo Giovanni Zaccini,41.560349,13.34412,no
-319995,IT-0384,small_airport,Campo di Volo Il Grifo,41.671186,13.278646,no
+319995,IT-0384,small_airport,"Campo di Volo ""Il Grifo""",41.671186,13.278646,no
 319996,IT-0385,small_airport,Campo di Volo Rains,41.146,14.338803,no
 320006,IT-0387,small_airport,Aviosuperficie Delfina,42.842934,12.734494,no
 320009,IT-0388,small_airport,Aviosuperficie Panicarola,43.064444,12.100556,no
-320011,IT-0389,small_airport,Aviosuperficie Bore di Chienti,43.261156,13.563302,no
-320020,IT-0390,small_airport,Campo di Volo Delta Top Pegaso,42.224206,11.7948,no
+320011,IT-0389,small_airport,"Aviosuperficie ""Bore di Chienti""",43.261156,13.563302,no
+320020,IT-0390,small_airport,"Campo di Volo ""Delta Top Pegaso""",42.224206,11.7948,no
 320022,IT-0391,small_airport,Campo di Volo San Giorgio,42.192897,11.724445,no
 320025,IT-0392,small_airport,Campo di Volo Montemelino,43.103,12.253,no
-320040,IT-0393,small_airport,Aviosuperficie Ali sul Graticolato,45.5583333,11.9738889,no
-320042,IT-0394,small_airport,Aviosuperficie Punta Ala,42.842172,10.82307,no
+320040,IT-0393,small_airport,"Aviosuperficie ""Ali sul Graticolato""",45.5583333,11.9738889,no
+320042,IT-0394,small_airport,"Aviosuperficie ""Punta Ala""",42.842172,10.82307,no
 320066,IT-0395,small_airport,Aviosuperficie Collina,43.988371,11.389562,no
 320070,IT-0397,small_airport,Campo di Volo Ali Friuli,46.056493,13.426248,no
 320080,IT-0398,small_airport,Aviosuperficie Amici dell'Aria,39.327868,9.146871,no
 320084,IT-0399,small_airport,Campo di Volo Aliveneta,45.250934,11.036059,no
-320100,IT-0400,small_airport,Campo di Volo Cavaliere d'Italia,45.156334,12.110272,no
-320102,IT-0401,small_airport,Campo di Volo Gli Acquilotti,45.138,12.2334,no
-320104,IT-0402,small_airport,Campo di Volo Al Ranch,45.9235,13.033567,no
+320100,IT-0400,small_airport,"Campo di Volo ""Cavaliere d'Italia""",45.156334,12.110272,no
+320102,IT-0401,small_airport,"Campo di Volo ""Gli Acquilotti""",45.138,12.2334,no
+320104,IT-0402,small_airport,"Campo di Volo ""Al Ranch""",45.9235,13.033567,no
 320105,IT-0403,small_airport,Campo di Volo Always,46.133883,13.278224,no
-320107,IT-0404,small_airport,Campo di Volo I Grifoni,45.91347,13.371861,no
+320107,IT-0404,small_airport,"Campo di Volo ""I Grifoni""",45.91347,13.371861,no
 320109,IT-0405,small_airport,Aviosuperficie Chiasiellis,45.944928,13.208403,no
 320111,IT-0406,small_airport,Campo di Volo Fly Synthesis,45.968667,13.23355,no
-320126,IT-0407,small_airport,Campo di Volo Fly Evolution,45.981982,13.306923,no
+320126,IT-0407,small_airport,"Campo di Volo ""Fly Evolution""",45.981982,13.306923,no
 320128,IT-0408,small_airport,Campo di Volo Pranovi,45.372,12.037703,no
-320155,IT-0409,small_airport,Campo di Volo Maraclub Icamar,39.278216,9.25674,no
+320155,IT-0409,small_airport,"Campo di Volo ""Maraclub Icamar""",39.278216,9.25674,no
 320158,IT-0410,small_airport,Aviosuperficie Aero Club Valdarno S.C.U.V.,43.53084,11.473086,no
 320159,IT-0411,small_airport,Campo di Volo Massimo Costa,43.092714,10.556267,no
 320166,IT-0413,small_airport,Aviosuperficie del Parteolla,39.400471,9.139151,no
-320167,IT-0414,small_airport,Aviosuperficie La Tana del Volo,39.269133,8.771811,no
+320167,IT-0414,small_airport,"Aviosuperficie ""La Tana del Volo""",39.269133,8.771811,no
 320176,IT-0415,small_airport,Campo di Volo Scaligero,45.317999,10.708789,no
 320177,IT-0416,small_airport,Aviosuperficie Arcadia,45.501483,10.788964,no
 320195,IT-0419,small_airport,Campo di Volo San Sisto,44.847258,10.505502,no
 320197,IT-0420,small_airport,Campo di Volo Top Gun,44.682302,10.568648,no
-320204,IT-0421,small_airport,Campo di Volo Volo Libero Carnia,46.524053,13.004055,no
-320205,IT-0422,small_airport,Campo di Volo Pajaro Loco,45.867979,12.792206,no
+320204,IT-0421,small_airport,"Campo di Volo ""Volo Libero Carnia""",46.524053,13.004055,no
+320205,IT-0422,small_airport,"Campo di Volo ""Pajaro Loco""",45.867979,12.792206,no
 320209,IT-0423,small_airport,Bracciano Air Base,42.0822,12.07459,no
 320222,IT-0424,small_airport,Aviosuperficie Mascioni,45.8991667,8.71735,no
 320224,IT-0425,small_airport,Campo di Volo Aeroteam,45.4362801,8.5770435,no
 320233,IT-0426,small_airport,Campo di Volo Rivoli,45.046818,7.536461,no
 320234,IT-0427,small_airport,Campo di Volo Andrea Bozzo,44.863742,7.407068,no
-320242,IT-0428,small_airport,Campo di Volo La Canonica,45.635467,12.340599,no
+320242,IT-0428,small_airport,"Campo di Volo ""La Canonica""",45.635467,12.340599,no
 320243,IT-0429,small_airport,Campo di Volo Albatros,45.770727,12.244068,no
-320244,IT-0430,small_airport,Campo di Volo Dream Fly,45.930381,12.257512,no
-320245,IT-0431,small_airport,Campo di Volo Butterfly 2,45.853,12.456949,no
+320244,IT-0430,small_airport,"Campo di Volo ""Dream Fly""",45.930381,12.257512,no
+320245,IT-0431,small_airport,"Campo di Volo ""Butterfly 2""",45.853,12.456949,no
 320277,IT-0434,small_airport,Campo di Volo L'Airone,45.153393,8.656568,no
 320278,IT-0435,small_airport,Aviosuperficie di Fucecchio,43.7514431,10.8073791,no
 320279,IT-0436,small_airport,Aviosuperficie Antica Sardegna,39.270695,9.538871,no
@@ -33619,17 +33619,17 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 320353,IT-0439,small_airport,Aviosuperficie Tucano,42.132373,12.627056,no
 320363,IT-0440,small_airport,Aviosuperficie Grecciano,43.628814,10.482438,no
 320364,IT-0441,small_airport,Campo di Volo Campiglia,43.019437,10.594659,no
-320370,IT-0442,small_airport,Campo di Volo Air Country,42.806283,13.785007,no
-320380,IT-0443,small_airport,Campo di Volo Costa del Monte,42.733207,13.891703,no
+320370,IT-0442,small_airport,"Campo di Volo ""Air Country""",42.806283,13.785007,no
+320380,IT-0443,small_airport,"Campo di Volo ""Costa del Monte""",42.733207,13.891703,no
 320381,IT-0444,small_airport,Campo di Volo Roma Est,41.9151,12.76803,no
 320382,IT-0445,small_airport,Aviosuperficie Santarcangelo,44.032318,12.427928,no
-320384,IT-0447,small_airport,Campo di Volo Policoro Saline,40.216161,16.731721,no
+320384,IT-0447,small_airport,"Campo di Volo Policoro ""Saline""",40.216161,16.731721,no
 320415,IT-0448,small_airport,Campo di Volo MedFly,37.1055,14.220061,no
 320417,IT-0449,small_airport,Campo di Volo Club Aeronautico Gela,37.11314,14.18929,no
-320438,IT-0450,small_airport,Campo di Volo Palazzone di Narni,42.536609,12.553635,no
+320438,IT-0450,small_airport,"Campo di Volo ""Palazzone di Narni""",42.536609,12.553635,no
 320439,IT-0451,small_airport,Campo di Volo Calledro,42.464848,12.428715,no
 320441,IT-0452,small_airport,Aviosuperficie ARMA,41.464661,12.746693,no
-320452,IT-0454,small_airport,Aviosuperficie Fly Roma,41.884434,12.71516,no
+320452,IT-0454,small_airport,"Aviosuperficie ""Fly Roma""",41.884434,12.71516,no
 320461,IT-0455,small_airport,Campo di Volo Sangermano,41.991555,12.13791,no
 320468,IT-0456,small_airport,Aviosuperficie Alfina,42.739667,11.983333,no
 320469,IT-0457,small_airport,Aviosuperficie Ocria,42.427255,12.457864,no
@@ -33667,25 +33667,25 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 321048,IT-0491,small_airport,Aviosuperficie San Felice,46.084723,12.121052,no
 321084,IT-0492,small_airport,Aviosuperficie Vraglia,44.413209,11.747288,no
 321092,IT-0493,small_airport,Aviosuperficie Fly Center,41.5472222,12.6708333,no
-321108,IT-0494,small_airport,Campo di Volo Il Gruccione,43.605515,10.411837,no
+321108,IT-0494,small_airport,"Campo di Volo ""Il Gruccione""",43.605515,10.411837,no
 321109,IT-0495,small_airport,Campo di Volo privato Bigarello,45.170815,10.929061,no
 321110,IT-0496,small_airport,Campo di Volo Pellizzario,45.2927778,10.4466667,no
 321167,IT-0497,small_airport,Campo di Volo AvioSciacca,37.5280556,13.0036111,no
-321168,IT-0498,small_airport,Campo di Volo Girasole Vola,39.9566667,9.6452778,no
+321168,IT-0498,small_airport,"Campo di Volo ""Girasole Vola""",39.9566667,9.6452778,no
 321191,IT-0499,small_airport,Campo di Volo Pietralata,39.970654,18.381006,no
 321192,IT-0500,small_airport,Aviosuperficie La Smeraldina,41.05793,9.433446,no
 321193,IT-0501,small_airport,Campo di Volo Selva Negra,42.406825,11.396192,no
 321194,IT-0502,small_airport,Campo di Volo Privato Curtatone,45.112207,10.705383,no
-321229,IT-0503,small_airport,Campo di Volo Delta Team Lucca,43.784226,10.603388,no
+321229,IT-0503,small_airport,"Campo di Volo ""Delta Team Lucca""",43.784226,10.603388,no
 321271,IT-0504,small_airport,Campo di Volo Mantovana,44.728086,8.595741,no
 321272,IT-0505,small_airport,Campo di Volo Felonica,44.9666667,11.3541667,no
 321285,IT-0506,small_airport,Aviosuperficie Tabularia,44.84975,10.5662204,no
-321345,IT-0507,small_airport,Campo di Volo Oasi del Volo,39.407537,9.174867,no
+321345,IT-0507,small_airport,"Campo di Volo ""Oasi del Volo""",39.407537,9.174867,no
 321424,IT-0508,small_airport,Gsiesertal / Valle di Casies,46.7657842,12.1556392,no
 321450,IT-0509,small_airport,Campo di Volo Scortichino,44.8577778,11.3530556,no
-321496,IT-0511,small_airport,Aviosuperficie privata La Ceriella,45.220143,8.659543,no
+321496,IT-0511,small_airport,"Aviosuperficie privata ""La Ceriella""",45.220143,8.659543,no
 321519,IT-0512,small_airport,Aviosuperficie Maletto Fly,37.845756,14.869846,no
-321525,IT-0513,small_airport,Campo di Volo privato Le Prata,43.74537,10.404967,no
+321525,IT-0513,small_airport,"Campo di Volo privato ""Le Prata""",43.74537,10.404967,no
 321573,IT-0514,small_airport,Campo di Volo di Vallecamonica,45.855901,10.147571,no
 321599,IT-0515,small_airport,Campo di Volo Altavillafly,40.5458333,15.1019444,no
 321600,IT-0516,small_airport,Campo di Volo Linnarta,40.412091,9.723621,no
@@ -33697,7 +33697,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 321909,IT-0524,small_airport,Campo di Volo Avio Lao,39.780336,15.809989,no
 322576,IT-0526,small_airport,ASD Salento Fly,40.35,18.0611111,no
 324737,IT-0527,small_airport,Corte Bariani,45.033228,11.724291,no
-324808,IT-0528,small_airport,Aeroclub Citt_ Bianca Francesco Santoro,40.772189,17.637754,no
+324808,IT-0528,small_airport,"Aeroclub Citt_ Bianca ""Francesco Santoro""",40.772189,17.637754,no
 308235,ITK,small_airport,Itokama Airport,-9.201527,148.264261,no
 316549,IVI,small_airport,Viveros Island Airport,8.4693,-79.0016,no
 322359,JAMI,small_airport,Jamies,35.520465,-90.729075,no
@@ -34075,7 +34075,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 18648,K34,small_airport,Gardner Municipal Airport,38.80690002,-94.95619965,no
 18650,K34M,small_airport,Campbell Municipal Airport,36.48619843,-90.00839996,no
 18651,K34R,small_airport,Hallettsville Municipal Airport,29.38999939,-96.95610046,no
-18652,K35A,small_airport,Union County, Troy Shelton Field,34.68700027,-81.6411972,no
+18652,K35A,small_airport,"Union County, Troy Shelton Field",34.68700027,-81.6411972,no
 18653,K35D,small_airport,Padgham Field,42.53099823,-85.82510376,no
 18654,K35S,small_airport,Wasco State Airport,45.58940125,-120.6740036,no
 18655,K36K,small_airport,Lakin Airport,37.9695015,-101.2549973,no
@@ -35064,7 +35064,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 42657,KE-0014,small_airport,Barclays Airport,-0.187795997,35.96709824,no
 42658,KE-0015,small_airport,Lake Baringo (Kampi Ya Samaki) Airport,0.603166997,36.01300049,no
 42659,KE-0016,small_airport,Shompole (Dry Lake) Airport,-2.020333052,36.03911209,no
-42660,KE-0017,small_airport,Shompole (All weather) Airport,-1.975582957,36.04838943,no
+42660,KE-0017,small_airport,"Shompole (""All"" weather) Airport",-1.975582957,36.04838943,no
 42661,KE-0018,small_airport,Kapedo Airport,1.163861036,36.08416748,no
 42662,KE-0019,small_airport,Naishi Airport,-0.456582993,36.08499908,no
 42663,KE-0020,small_airport,Congrieve Airfield,-0.483944,36.124359,no
@@ -35424,7 +35424,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 19750,KELA,small_airport,Eagle Lake Airport,29.60059929,-96.32189941,no
 19751,KELK,small_airport,Elk City Regional Business Airport,35.43080139,-99.39430237,no
 19752,KELN,small_airport,Bowers Field,47.03300095,-120.5309982,no
-19754,KELZ,small_airport,Wellsville Municipal Arpt,Tarantine Field,42.10950089,-77.98999786,no
+19754,KELZ,small_airport,"Wellsville Municipal Arpt,Tarantine Field",42.10950089,-77.98999786,no
 19755,KEMM,small_airport,Kemmerer Municipal Airport,41.82410049,-110.5569992,no
 19756,KEMP,small_airport,Emporia Municipal Airport,38.33209991,-96.19120026,no
 19757,KEMT,small_airport,El Monte Airport,34.08610153,-118.0350037,no
@@ -36355,7 +36355,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 20735,KOKS,small_airport,Garden County Airport,41.40100098,-102.3550034,no
 20736,KOKV,small_airport,Winchester Regional Airport,39.14350128,-78.14440155,no
 20737,KOKZ,small_airport,Kaolin Field,32.96670151,-82.83820343,no
-3748,KOLD,small_airport,Dewitt Field,Old Town Municipal Airport,44.95280075,-68.67430115,no
+3748,KOLD,small_airport,"Dewitt Field,Old Town Municipal Airport",44.95280075,-68.67430115,no
 20738,KOLE,small_airport,Cattaraugus County-Olean Airport,42.24119949,-78.37139893,no
 20740,KOLG,small_airport,Solon Springs Municipal Airport,46.31480026,-91.81639862,no
 20742,KOLV,small_airport,Olive Branch Airport,34.97869873,-89.78690338,no
@@ -37733,7 +37733,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 318141,LHVE,small_airport,Veresegyh_z,47.6383333,19.2563889,no
 30575,LHZA,small_airport,Zalaegerszeg Airport,46.88470078,16.78890038,no
 309480,LHZK,small_airport,Zalakaros Airport,46.5539,17.15118,no
-317407,LIAA,small_airport,Aviosuperficie Alvaro Leonardi,42.573333,12.584444,no
+317407,LIAA,small_airport,"Aviosuperficie ""Alvaro Leonardi""",42.573333,12.584444,no
 29414,LIAF,small_airport,Foligno Airport,42.9328,12.7101,no
 317856,LIAL,small_airport,Aviosuperficie Sant'Illuminato,43.353667,12.216667,no
 4307,LIAP,small_airport,L'Aquila__Preturo Airport,42.379902,13.3092,no
@@ -39793,7 +39793,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 22623,MY58,small_airport,Home-Base Airport,45.23880005,-95.9253006,no
 22624,MY59,small_airport,Gasper Airport,47.90159988,-96.61229706,no
 22625,MY60,small_airport,Hagen Airport,46.50270081,-95.61979675,no
-22626,MY62,small_airport,Ultraflyte, Inc Ultralightport,46.66519928,-94.34329987,no
+22626,MY62,small_airport,"Ultraflyte, Inc Ultralightport",46.66519928,-94.34329987,no
 22627,MY64,small_airport,Schjeldrup Airport,47.03110123,-96.60230255,no
 22629,MY66,small_airport,North Star Ranch Airport,46.07049942,-93.84719849,no
 22630,MY68,small_airport,Johnsons Aero Repair Airport,45.77719879,-96.3914032,no
@@ -42223,7 +42223,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 300163,RO-0001,small_airport,Clinceni Airfield,44.35902,25.93196,no
 311939,RO-0002,small_airport,Banesti,45.068671,25.80637,no
 313613,RO-0003,small_airport,Bucovina Fly Club,47.885278,25.899167,no
-313619,RO-0004,small_airport,Ineu King's Land field,47.079167,22.100278,no
+313619,RO-0004,small_airport,"Ineu ""King's Land"" field",47.079167,22.100278,no
 315478,RO-0005,small_airport,Aerodrom S_licea,46.6830919,23.5076486,no
 315482,RO-0006,small_airport,Aerodromul S_npetru-Bra_ov,45.718956,25.634199,no
 315483,RO-0007,small_airport,Aerodromul S_ule_ti,45.863784,22.965066,no
@@ -42301,9 +42301,9 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 314540,RRM,small_airport,Marromeu Airport,-18.2929,35.9345,no
 34926,RS-0001,small_airport,Bela Crkva Airport,44.925166,21.370155,no
 34927,RS-0002,small_airport,Bojnik Airport,42.997299,21.721901,no
-301357,RS-0003,small_airport,Aerodrom 13.Maj,44.87644444,20.30591667,no
+301357,RS-0003,small_airport,"Aerodrom ""13.Maj""",44.87644444,20.30591667,no
 315691,RS-0007,small_airport,Smederevo Airport,44.6439,20.9623,no
-315698,RS-0008,small_airport,Sportski Aerodrom Kozhirsko Polje,43.5634552,21.3362595,no
+315698,RS-0008,small_airport,"Sportski Aerodrom ""Kozhirsko Polje""",43.5634552,21.3362595,no
 316358,RS-0009,small_airport,Banji_ki Vis Heliport,44.7623,20.4714,no
 320358,RS-0010,small_airport,Bogati_,44.8266667,19.4997222,no
 321141,RS-0011,small_airport,Sur_in Airstrip,44.7688889,20.3047222,no
@@ -43465,7 +43465,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 190,SDNY,small_airport,Aeroclube Airport,-22.74530029,-43.46030045,no
 35651,SDNZ,small_airport,Fazenda Alto do Piriqui Airport,-17.84499931,-54.76889038,no
 46107,SDOA,small_airport,Lagoa da Floresta Airport,-5.488611111,-45.48861111,no
-191,SDOB,small_airport,Fazenda S_o Jos_ OB Airport,-21.42519951,-46.75429916,no
+191,SDOB,small_airport,"Fazenda S_o Jos_ ""OB"" Airport",-21.42519951,-46.75429916,no
 46103,SDOD,small_airport,Fazenda Vida Airport,-5.84,-45.54194444,no
 46102,SDOE,small_airport,Fazenda Sib_ria Airport,-5.722222222,-45.79138889,no
 35656,SDOI,small_airport,Centro Nacional de P_ra-quedismo Airport,-23.29805565,-47.69194412,no
@@ -44678,7 +44678,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 40977,SK-019,small_airport,San Jos_ Mulatos Airport,8.35,-76.333333,no
 41074,SK-020,small_airport,San Juan De Uraba Airport,8.766667,-76.533333,no
 41072,SK-021,small_airport,San Pedro Airport,8.28597,-76.380386,no
-40939,SK-023,small_airport,Santa Rita, Ituango Airport,7.333333,-75.6,no
+40939,SK-023,small_airport,"Santa Rita, Ituango Airport",7.333333,-75.6,no
 40951,SK-024,small_airport,Sopetran Airport,6.498056,-75.785278,no
 40996,SK-025,small_airport,Vig_a Del Fuerte Airport,6.583333,-76.883333,no
 40989,SK-026,small_airport,Villanueva Airport,7.971667,-76.629722,no
@@ -45266,7 +45266,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 29797,SLCP,small_airport,Concepci_n Airport,-16.13829994,-62.02859879,no
 39431,SLCR,small_airport,Comarapa Airport,-17.91360092,-64.51779938,no
 39425,SLCS,small_airport,Cerdas Airport,-20.80833333,-66.40111111,no
-39429,SLCT,small_airport,Choreti, Bolivia, South America Airport,-13.51449966,-64.96520233,no
+39429,SLCT,small_airport,"Choreti, Bolivia, South America Airport",-13.51449966,-64.96520233,no
 39496,SLCU,small_airport,Culpina Airport,-20.83333397,-64.96666718,no
 39424,SLCV,small_airport,Cavinas Airport,-12.54979992,-66.91249847,no
 39491,SLCX,small_airport,Chive Airport,-12.37783337,-68.5676651,no
@@ -47872,7 +47872,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 24932,TN16,small_airport,Huntingdon Airport,35.99449921,-88.4611969,no
 24933,TN17,small_airport,Vintage Field,35.58229828,-84.48799896,no
 24934,TN18,small_airport,Richardson Strip,35.20429993,-89.66670227,no
-24936,TN20,small_airport,Seymour Air Park, Inc. Airport,35.8117981,-83.77459717,no
+24936,TN20,small_airport,"Seymour Air Park, Inc. Airport",35.8117981,-83.77459717,no
 24937,TN21,small_airport,Palmer Village-Napier Lake STOLport,35.44760132,-87.50610352,no
 24939,TN23,small_airport,Titan Field,36.49440002,-87.32189941,no
 24940,TN24,small_airport,Spencer Field,35.38759995,-85.96250153,no
@@ -48580,7 +48580,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 43109,US-0052,small_airport,Joyner Airport,45.3166008,-93.47189331,no
 43327,US-0053,small_airport,Meadowview Airport,33.06259918,-96.13020325,no
 46183,US-0055,small_airport,Alaki Hot Springs,37.675,-118.0733333,no
-45095,US-0056,small_airport,Delle, Utah,40.76255234,-112.7872968,no
+45095,US-0056,small_airport,"Delle, Utah",40.76255234,-112.7872968,no
 45097,US-0058,small_airport,Avery Ranch Airstrip,41.62941354,-122.4114168,no
 45163,US-0059,small_airport,Chicken Strip,36.80704271,-117.7817416,no
 13025,US-0060,small_airport,Comanche Landing Airport,30.78770065,-83.22100067,no
@@ -48701,7 +48701,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 316423,US-0282,small_airport,Larry F Warren Field,36.09058278,-79.17080278,no
 316884,US-0285,small_airport,Private strip nr Huntsville,30.79851,-95.54221,no
 316885,US-0286,small_airport,Hodges Airfield,31.373602,-93.395117,no
-316887,US-0287,small_airport,Forest service strip nr Kurthwood, LA,31.31646,-93.15745,no
+316887,US-0287,small_airport,"Forest service strip nr Kurthwood, LA",31.31646,-93.15745,no
 318123,US-0302,small_airport,Elgin's Stony Field Airport,34.778494,-98.273123,no
 324090,US-0304,small_airport,Freeman Swank Farms Airport,40.59683,-82.43173,no
 324372,US-0306,small_airport,Plane Crazy Airport,30.5460694,-90.5763333,no
@@ -49878,14 +49878,14 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 26780,WAOP,small_airport,Tjilik Riwut Airport,-2.225130081,113.9430008,yes
 26781,WAOS,small_airport,Sampit(Hasan) Airport,-2.499190092,112.9749985,yes
 310539,WAOT,small_airport,Teluk Kepayang Airport,-3.4203,115.6867,no
-42267,WAOU,small_airport,SANGGU Airport, Buntok,-1.66929996,114.8980026,no
+42267,WAOU,small_airport,"SANGGU Airport, Buntok",-1.66929996,114.8980026,no
 30623,WAPA,small_airport,Amahai Airport,-3.34800005,128.9259949,no
 32632,WAPB,small_airport,Bula Airport,-3.109960079,130.5099945,no
 41389,WAPC,small_airport,Bandanaira Airport,-4.5214,129.9054,yes
 30934,WAPD,small_airport,Rar Gwamar Airport,-5.772220135,134.2120056,no
-41443,WAPE,small_airport,Mangole Airport, Falabisahaya,-1.87579,125.8300018,no
+41443,WAPE,small_airport,"Mangole Airport, Falabisahaya",-1.87579,125.8300018,no
 41390,WAPG,small_airport,Namrole Airport,-3.8548,126.7012,no
-41444,WAPH,small_airport,Oesman Sadik Airport, Labuha,-0.635258973,127.5019989,no
+41444,WAPH,small_airport,"Oesman Sadik Airport, Labuha",-0.635258973,127.5019989,no
 32407,WAPI,small_airport,Saumlaki/Olilit Airport,-7.988609791,131.3059998,no
 26782,WAPK,small_airport,Nangasuri Airport,-6.06619978,134.2740021,no
 41445,WAPN,small_airport,Emalamo Sanana Airport,-2.080509901,125.9670029,no
@@ -49893,7 +49893,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 41446,WAPQ,small_airport,Kisar Airport,-8.018489838,127.1969986,no
 41447,WAPR,small_airport,Namlea Airport,-3.235569954,127.0999985,no
 32424,WAPT,small_airport,Taliabu Island Airport,-1.642629981,124.5589981,no
-42251,WAPV,small_airport,Wahai,Seram Island,-2.8114,129.484,no
+42251,WAPV,small_airport,"Wahai,Seram Island",-2.8114,129.484,no
 26785,WARA,small_airport,Abdul Rachman Saleh Airport,-7.926559925,112.7149963,yes
 30846,WARC,small_airport,Ngloram Airport,-7.194841667,111.5481667,no
 26786,WARI,small_airport,Iswahyudi Airport,-7.615769863,111.4339981,no
@@ -50346,7 +50346,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 26144,XA09,small_airport,Menard Airport,33.58190155,-98.06109619,no
 26145,XA10,small_airport,Ponderosa Field,33.23189926,-97.33879852,no
 26147,XA12,small_airport,Mcfarlin Ranch Airport,30.69470024,-98.03279877,no
-26150,XA15,small_airport,Holict Private Airport,31.42690086,-96.97969818,no
+26150,XA15,small_airport,"Holict ""Private"" Airport",31.42690086,-96.97969818,no
 26151,XA16,small_airport,Tightwaad Air Ranch Airport,33.49420166,-97.46559906,no
 26152,XA17,small_airport,Chuckster Airport,33.32170105,-95.56359863,no
 26158,XA23,small_airport,Richardson Field,33.01779938,-94.97229767,no
@@ -51363,7 +51363,7 @@ id,ident,type,name,latitude_deg,longitude_deg,scheduled_service
 31890,YMOT,small_airport,Moreton Airport,-12.44419956,142.6380005,no
 27798,YMOU,small_airport,Moura Airport,-24.61170006,149.9949951,no
 27799,YMPA,small_airport,Minnipa Airport,-32.84329987,135.1450043,no
-27073,YMPC,small_airport,RAAF Williams, Point Cook Base,-37.932201,144.753006,no
+27073,YMPC,small_airport,"RAAF Williams, Point Cook Base",-37.932201,144.753006,no
 27800,YMPE,small_airport,Mount Cooper Airport,-20.51670074,146.7669983,no
 27801,YMPH,small_airport,Mount Elephant Airport,-37.90000153,143.1670074,no
 38492,YMPK,small_airport,Milton Park Airport,-23.36669922,133,no
